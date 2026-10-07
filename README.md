@@ -1,26 +1,24 @@
 # Muath Alsulami
-### Web applications · REST APIs · AI integration
 
-Computer Science & AI graduate based in Makkah, Saudi Arabia. I build web applications with Python, Flask and JavaScript, and connect AI models to usable application interfaces.
+**Web applications · REST APIs · AI integration**
 
-Open to entry-level backend/full-stack roles and freelance web development or API integration projects. Open to relocation to Riyadh.
+Computer Science & Artificial Intelligence graduate from **Umm Al-Qura University**, with a **GPA of 3.54/4.00**. I build web applications using Python, Flask and JavaScript, and integrate AI models through REST/JSON APIs.
 
-## Background
-- **B.S. in Computer Science & Artificial Intelligence — Umm Al-Qura University**
-- **GPA: 3.54/4.00**
-- **National Center for Meteorology (NCM) — IT co-op:** infrastructure and monitoring experience.
-- **Numoo — university team project:** application-layer integration of team models through REST/JSON APIs. My contribution focused on the application and integration, rather than independent model training.
+Based in **Makkah, Saudi Arabia** · Open to relocation to **Riyadh**
+
+Seeking entry-level backend/full-stack roles and freelance web development or API integration projects.
+
+[LinkedIn](https://www.linkedin.com/in/muath-m-alsulami/) · [Email](mailto:muath.m.alsulami@gmail.com)
+
+## Practical experience
+
+### National Center for Meteorology — IT co-op
+Infrastructure and monitoring experience with **Docker, Node Exporter, Prometheus, Grafana and Loki**. Worked with **PromQL** and dashboards for **CPU, RAM, disk and network** monitoring.
+
+### Numoo — university team project
+Application and API integration of team AI models through REST/JSON interfaces. My contribution focused on connecting models to the application and user interface; it did not include independent model training.
 
 ## Technical focus
-| Area | Tools and practices |
-| --- | --- |
-| Web development | Python, Flask, JavaScript, HTML, CSS |
-| Integration | REST APIs, JSON, AI model integration |
-| Containers and observability | Docker, Prometheus, Grafana, Loki |
-
-## Portfolio
-Public project case studies will be added as they are ready, with clear setup instructions, screenshots, my contribution, and verified limitations.
-
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/muath-m-alsulami/)
-- [Email](mailto:muath.m.alsulami@gmail.com)
+- **Web:** Python, Flask, JavaScript, HTML, CSS
+- **Integration:** REST/JSON APIs, AI integration
+- **Observability:** Docker, Node Exporter, Prometheus, Grafana, Loki, PromQL
