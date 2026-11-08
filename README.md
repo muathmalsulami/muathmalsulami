@@ -1,4 +1,4 @@
-<img src="assets/signature-dark.svg" alt="An abstract path connects ideas and systems through layered geometric forms." width="1200">
+<img src="assets/atelier-path.svg" alt="An abstract path connects ideas and systems through layered geometric forms." width="1200">
 
 # Muath Alsulami
 
@@ -22,7 +22,7 @@ A bilingual space for documenting my projects and experience. Built with **HTML,
 
 ### 02 / Numoo — application & AI integration
 
-![Illustration of an application interface, integration layer and model output; not a screenshot](assets/numoo-illustration.svg)
+![Illustration of an application interface, integration layer and model output; not a screenshot](assets/numoo-flow.svg)
 
 *Illustration: application → integration → model output; not a screenshot.*
 
@@ -32,7 +32,7 @@ A university team project exploring stock-direction forecasting. I built applica
 
 ### 03 / Monitoring & observability
 
-![Illustration of connected monitoring, visualization and logging components; not operational data](assets/observability-illustration.svg)
+![Illustration of connected monitoring, visualization and logging components; not operational data](assets/observability-flow.svg)
 
 *Illustration: a conceptual monitoring workflow; no operational data.*
 
