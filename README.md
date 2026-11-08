@@ -1,24 +1,29 @@
+<img src="assets/engineering-hero.svg" alt="Thoughtful software. Useful systems. An architectural line drawing connects ideas and systems." width="1200">
+
 # Muath Alsulami
 
-**Web applications · REST APIs · AI integration**
+**Computer Science & AI graduate · Software development · AI integration**
 
-Computer Science & Artificial Intelligence graduate from **Umm Al-Qura University**, with a **GPA of 3.54/4.00**. I build web applications using Python, Flask and JavaScript, and integrate AI models through REST/JSON APIs.
+I enjoy turning ideas into useful software, connecting intelligent features to applications, and understanding the systems that keep them running. I graduated from Umm Al-Qura University in 2026 with a **3.54/4.00 GPA and Second Class Honors**.
 
-Based in **Makkah, Saudi Arabia** · Open to relocation to **Riyadh**
+[Explore my portfolio ↗](https://muathmalsulami.github.io/learn-git-with-pathy/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/muath-m-alsulami/) &nbsp; · &nbsp; [Email](mailto:muath.m.alsulami@gmail.com)
 
-Seeking entry-level backend/full-stack roles and freelance web development or API integration projects.
+## Selected work
 
-[LinkedIn](https://www.linkedin.com/in/muath-m-alsulami/) · [Email](mailto:muath.m.alsulami@gmail.com)
+### [Personal portfolio ↗](https://muathmalsulami.github.io/learn-git-with-pathy/)
+A bilingual home for my work, built with HTML, CSS and JavaScript. Explore the site or [read the source](https://github.com/muathmalsulami/learn-git-with-pathy). The project uses Git and GitHub workflows; AI-assisted development with OpenAI Codex is disclosed in its README.
 
-## Practical experience
+### Numoo · university team project
+Contributed to application development and integrated AI functionality using Python, Flask and REST/JSON interfaces. My role was application and model integration, **not model training**. The [portfolio project notes](https://muathmalsulami.github.io/learn-git-with-pathy/#work) describe the work; no public source repository is claimed.
 
-### National Center for Meteorology — IT co-op
-Infrastructure and monitoring experience with **Docker, Node Exporter, Prometheus, Grafana and Loki**. Worked with **PromQL** and dashboards for **CPU, RAM, disk and network** monitoring.
+## Systems in practice
 
-### Numoo — university team project
-Application and API integration of team AI models through REST/JSON interfaces. My contribution focused on connecting models to the application and user interface; it did not include independent model training.
+At the **National Center for Meteorology** in Jeddah, my IT cooperative training included infrastructure and monitoring work with Docker, Docker Compose, Prometheus, Node Exporter, Grafana and Loki. I worked with PromQL and dashboards for CPU, memory, disk and network monitoring.
 
-## Technical focus
-- **Web:** Python, Flask, JavaScript, HTML, CSS
-- **Integration:** REST/JSON APIs, AI integration
-- **Observability:** Docker, Node Exporter, Prometheus, Grafana, Loki, PromQL
+## Tools I have used
+
+**Build:** Python · Flask · JavaScript · HTML · CSS · REST/JSON  
+**Systems:** Docker · Prometheus · Grafana · Loki  
+**Workflow:** Git · GitHub
+
+Based in Makkah, Saudi Arabia. Interested in opportunities to build practical software and keep learning.
