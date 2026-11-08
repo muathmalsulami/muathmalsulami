@@ -22,8 +22,8 @@ At the **National Center for Meteorology** in Jeddah, my IT cooperative training
 
 ## Tools I have used
 
-- **Build:** Python · Flask · JavaScript · HTML · CSS · REST/JSON  
-- **Systems:** Docker · Prometheus · Grafana · Loki  
+- **Build:** Python · Flask · JavaScript · HTML · CSS · REST/JSON
+- **Systems:** Docker · Prometheus · Grafana · Loki
 - **Workflow:** Git · GitHub
 
 Based in Makkah, Saudi Arabia. Interested in opportunities to build practical software and keep learning.
