@@ -1,24 +1,61 @@
+<img src="assets/atelier-signature.svg" alt="An abstract path connects ideas and systems through layered geometric forms." width="1200">
+
 # Muath Alsulami
 
-**Web applications · REST APIs · AI integration**
+**Make it useful. Then make it better.**
 
-Computer Science & Artificial Intelligence graduate from **Umm Al-Qura University**, with a **GPA of 3.54/4.00**. I build web applications using Python, Flask and JavaScript, and integrate AI models through REST/JSON APIs.
+**Computer Science & AI graduate · Software development · AI integration**
 
-Based in **Makkah, Saudi Arabia** · Open to relocation to **Riyadh**
+I build applications that connect useful interfaces, software and intelligent features. I care about the details that make a system understandable, maintainable and ready to use.
 
-Seeking entry-level backend/full-stack roles and freelance web development or API integration projects.
+[**Explore my portfolio ↗**](https://muathmalsulami.github.io/learn-git-with-pathy/) · [LinkedIn](https://www.linkedin.com/in/muath-m-alsulami/) · [Email](mailto:muath.m.alsulami@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/muath-m-alsulami/) · [Email](mailto:muath.m.alsulami@gmail.com)
+## Selected work
 
-## Practical experience
+### 01 / Personal portfolio
 
-### National Center for Meteorology — IT co-op
-Infrastructure and monitoring experience with **Docker, Node Exporter, Prometheus, Grafana and Loki**. Worked with **PromQL** and dashboards for **CPU, RAM, disk and network** monitoring.
+A bilingual space for documenting my projects and experience. Built with **HTML, CSS and JavaScript**, with Git and GitHub supporting versioned changes, branches and review.
 
-### Numoo — university team project
-Application and API integration of team AI models through REST/JSON interfaces. My contribution focused on connecting models to the application and user interface; it did not include independent model training.
+[![Screenshot of the published portfolio home page, showing its dark bilingual software and AI portfolio design](assets/portfolio-live.webp)](https://muathmalsulami.github.io/learn-git-with-pathy/)
 
-## Technical focus
-- **Web:** Python, Flask, JavaScript, HTML, CSS
-- **Integration:** REST/JSON APIs, AI integration
-- **Observability:** Docker, Node Exporter, Prometheus, Grafana, Loki, PromQL
+[Visit the live site ↗](https://muathmalsulami.github.io/learn-git-with-pathy/) · [Read the source ↗](https://github.com/muathmalsulami/learn-git-with-pathy)
+
+### 02 / Numoo — application & AI integration
+
+![Illustration of an application interface, integration layer and model output; not a screenshot](assets/numoo-study.svg)
+
+*Illustration: application → integration → model output; not a screenshot.*
+
+A university team project exploring stock-direction forecasting. I built application interfaces and the **Python/Flask API layer** that connected the team's models to the application; my contribution did not include training the models.
+
+**Evidence:** [Project notes in my portfolio ↗](https://muathmalsulami.github.io/learn-git-with-pathy/#work). No public source repository is claimed.
+
+### 03 / Monitoring & observability
+
+![Illustration of connected monitoring, visualization and logging components; not operational data](assets/systems-study.svg)
+
+*Illustration: a conceptual monitoring workflow; no operational data.*
+
+During my **2025 IT cooperative training** at the National Center for Meteorology in Jeddah, I worked on a training-environment monitoring and logging setup. I used **Docker Compose, Node Exporter, Prometheus, Grafana and Loki**, including monitoring dashboards and PromQL queries.
+
+**Evidence:** [Training overview in my portfolio ↗](https://muathmalsulami.github.io/learn-git-with-pathy/#journey).
+
+## How I build
+
+I use Git and GitHub to keep work traceable through commits, branches and pull requests. I also use AI-assisted development tools as part of the workflow, with review and testing of the resulting changes; the portfolio repository discloses its use of OpenAI Codex.
+
+- **Application:** Python · Flask · JavaScript · HTML · CSS · REST/JSON
+- **Systems:** Docker · Prometheus · Grafana · Loki
+- **Workflow:** Git · GitHub
+
+## Education & learning
+
+**B.Sc. Computer Science & Artificial Intelligence** — Umm Al-Qura University, 2026. GPA **3.54/4.00**, Second Class Honors.
+
+**Software Project Management (Git & GitHub)** — Pathy, November 2026 · [Verify certificate ↗](https://learn.pathy.live/certificate/PTHYHCR6WZ3G5Q93)
+
+## Connect
+
+Based in Makkah, Saudi Arabia. I am interested in software development, AI integration and opportunities to keep building useful things.
+
+[Portfolio](https://muathmalsulami.github.io/learn-git-with-pathy/) · [LinkedIn](https://www.linkedin.com/in/muath-m-alsulami/) · [Email](mailto:muath.m.alsulami@gmail.com)

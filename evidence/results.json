@@ -1,0 +1,110 @@
+{
+  "width_320": {
+    "viewport": 320,
+    "images": [
+      {
+        "alt": "An abstract path connects ideas and systems through layered geometric forms.",
+        "width": 300,
+        "loaded": true
+      },
+      {
+        "alt": "Screenshot of the published portfolio home page, showing its dark bilingual software and AI portfolio design",
+        "width": 1100,
+        "loaded": true
+      },
+      {
+        "alt": "Illustration of an application interface, integration layer and model output; not a screenshot",
+        "width": 300,
+        "loaded": true
+      },
+      {
+        "alt": "Illustration of connected monitoring, visualization and logging components; not operational data",
+        "width": 300,
+        "loaded": true
+      }
+    ]
+  },
+  "width_390": {
+    "viewport": 390,
+    "images": [
+      {
+        "alt": "An abstract path connects ideas and systems through layered geometric forms.",
+        "width": 300,
+        "loaded": true
+      },
+      {
+        "alt": "Screenshot of the published portfolio home page, showing its dark bilingual software and AI portfolio design",
+        "width": 1100,
+        "loaded": true
+      },
+      {
+        "alt": "Illustration of an application interface, integration layer and model output; not a screenshot",
+        "width": 300,
+        "loaded": true
+      },
+      {
+        "alt": "Illustration of connected monitoring, visualization and logging components; not operational data",
+        "width": 300,
+        "loaded": true
+      }
+    ]
+  },
+  "width_430": {
+    "viewport": 430,
+    "images": [
+      {
+        "alt": "An abstract path connects ideas and systems through layered geometric forms.",
+        "width": 300,
+        "loaded": true
+      },
+      {
+        "alt": "Screenshot of the published portfolio home page, showing its dark bilingual software and AI portfolio design",
+        "width": 1100,
+        "loaded": true
+      },
+      {
+        "alt": "Illustration of an application interface, integration layer and model output; not a screenshot",
+        "width": 300,
+        "loaded": true
+      },
+      {
+        "alt": "Illustration of connected monitoring, visualization and logging components; not operational data",
+        "width": 300,
+        "loaded": true
+      }
+    ]
+  },
+  "width_1440": {
+    "viewport": 1440,
+    "images": [
+      {
+        "alt": "An abstract path connects ideas and systems through layered geometric forms.",
+        "width": 300,
+        "loaded": true
+      },
+      {
+        "alt": "Screenshot of the published portfolio home page, showing its dark bilingual software and AI portfolio design",
+        "width": 1100,
+        "loaded": true
+      },
+      {
+        "alt": "Illustration of an application interface, integration layer and model output; not a screenshot",
+        "width": 300,
+        "loaded": true
+      },
+      {
+        "alt": "Illustration of connected monitoring, visualization and logging components; not operational data",
+        "width": 300,
+        "loaded": true
+      }
+    ]
+  },
+  "axe": [],
+  "noImages": {
+    "blocked": 15,
+    "contentPresent": true,
+    "linkCount": 23
+  },
+  "testedContentCommit": "7bccbc453d8546a254670a46c59e36012d03f20f",
+  "method": "Anonymous GitHub pages in Playwright Edge; README element screenshots. Mobile is emulated. Axe was injected into a separate isolated context with CSP bypass enabled solely for injection; scoped to README."
+}
