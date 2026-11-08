@@ -25,3 +25,9 @@
 ## Limits
 
 Branch rendering is not publication. GitHub mobile and light-mode screenshots and an independent user study are not represented by static asset checks. No claim is made that Numoo's source or National Center for Meteorology training files are publicly available. Public account settings and the live profile remain unchanged pending one explicit approval.
+
+## Release candidate v2
+
+The hero is now a text-free, layered path; its meaning and headline remain readable Markdown even if images are disabled or displayed at narrow widths. Numoo and monitoring diagrams are clearly labeled illustrations, not application captures or operational data. The portfolio screenshot remains a real capture from the current public site.
+
+GitHub README supports theme-specific `<picture>` sources; the fallback is the light asset. Test the resulting profile on GitHub itself, not only the SVG renderer. The local test `node verify-profile.cjs` checks required assets, basic SVG safety, key content, alt descriptions and file-size limits; it is not a full accessibility or broken-link audit.

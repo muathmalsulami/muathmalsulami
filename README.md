@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/signature-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/signature-light.svg">
-  <img alt="Make it useful. Then make it better. A diagram connects an idea to a system." src="assets/signature-light.svg" width="1200">
+  <img alt="An abstract path connects ideas and systems through layered geometric forms." src="assets/signature-light.svg" width="1200">
 </picture>
 
 # Muath Alsulami
@@ -26,11 +26,19 @@ A bilingual space for documenting my projects and experience. Built with **HTML,
 
 ### 02 / Numoo — application & AI integration
 
+![Illustration of an application interface, integration layer and model output; not a screenshot](assets/numoo-illustration.svg)
+
+*Illustration: application → integration → model output; not a screenshot.*
+
 A university team project exploring stock-direction forecasting. I built application interfaces and the **Python/Flask API layer** that connected the team's models to the application; my contribution did not include training the models.
 
 **Evidence:** [Project notes in my portfolio ↗](https://muathmalsulami.github.io/learn-git-with-pathy/#work). The project is presented as team work; no public source repository is claimed.
 
 ### 03 / Monitoring & observability
+
+![Illustration of connected monitoring, visualization and logging components; not operational data](assets/observability-illustration.svg)
+
+*Illustration: a conceptual monitoring workflow; no operational data.*
 
 During my **2025 IT cooperative training** at the National Center for Meteorology in Jeddah, I worked on a training-environment monitoring and logging setup. I used **Docker Compose, Node Exporter, Prometheus, Grafana and Loki**, including dashboards, queries and simulated-failure checks.
 
