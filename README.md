@@ -6,6 +6,8 @@
 
 # Muath Alsulami
 
+**Make it useful. Then make it better.**
+
 **Computer Science & AI graduate · Software development · AI integration**
 
 I build applications that connect useful interfaces, software and intelligent features. I care about the details that make a system understandable, maintainable and ready to use.
@@ -44,8 +46,7 @@ I use Git and GitHub to keep work traceable through commits, branches and pull r
 
 ## Education & learning
 
-**B.Sc. Computer Science & Artificial Intelligence** — Umm Al-Qura University, 2026
-GPA **3.54/4.00**, Second Class Honors.
+**B.Sc. Computer Science & Artificial Intelligence** — Umm Al-Qura University, 2026. GPA **3.54/4.00**, Second Class Honors.
 
 **Software Project Management (Git & GitHub)** — Pathy, November 2026 · [Verify certificate ↗](https://learn.pathy.live/certificate/PTHYHCR6WZ3G5Q93)
 
