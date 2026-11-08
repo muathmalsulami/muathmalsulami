@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Ideas connected to useful software</title><desc id="desc">An architectural drawing of three connected planes with a luminous path, in muted green on deep navy.</desc>
-<rect width="1200" height="300" rx="12" fill="#0a1319"/>
-<g fill="none" stroke="#24443e" stroke-width="1"><path d="M0 60h1200M0 150h1200M0 240h1200M200 0v300M400 0v300M600 0v300M800 0v300M1000 0v300"/><path d="M694 50h400v200H694z" stroke-dasharray="4 8"/></g>
-<g font-family="Arial,sans-serif" fill="#d2f6e1"><text x="64" y="94" font-size="14" letter-spacing="3" fill="#8bb6a4">MUATH ALSULAMI / 2026</text><text x="64" y="160" font-size="40" font-weight="600" letter-spacing="-1">Thoughtful software.</text><text x="64" y="208" font-size="40" font-weight="600" letter-spacing="-1">Useful systems.</text><text x="65" y="255" font-size="13" letter-spacing="2" fill="#8bb6a4">SOFTWARE   /   AI INTEGRATION   /   OBSERVABILITY</text></g>
-<g fill="none" stroke-linejoin="round"><path d="M723 211 821 82l78 129 102-129 73 129" stroke="#40675a" stroke-width="1.5"/><path d="M723 211 821 82l78 129 102-129 73 129" stroke="#a8e8c4" stroke-width="5"/><path d="M723 211h351M821 82h180" stroke="#40675a" stroke-width="1"/><circle cx="723" cy="211" r="5" fill="#a8e8c4"/><circle cx="899" cy="211" r="5" fill="#a8e8c4"/><circle cx="1074" cy="211" r="5" fill="#a8e8c4"/></g>
-</svg>
