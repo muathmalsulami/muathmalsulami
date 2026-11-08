@@ -1,4 +1,4 @@
-<img src="assets/atelier-path.svg" alt="An abstract path connects ideas and systems through layered geometric forms." width="1200">
+<img src="assets/atelier-signature.svg" alt="An abstract path connects ideas and systems through layered geometric forms." width="1200">
 
 # Muath Alsulami
 
@@ -14,7 +14,7 @@ I build applications that connect useful interfaces, software and intelligent fe
 
 ### 01 / Personal portfolio
 
-A bilingual space for documenting my projects and experience. Built with **HTML, CSS and JavaScript**, with Git and GitHub supporting versioned changes, branches and review. The image shows the published website, not an experimental identity.
+A bilingual space for documenting my projects and experience. Built with **HTML, CSS and JavaScript**, with Git and GitHub supporting versioned changes, branches and review.
 
 [![Screenshot of the published portfolio home page, showing its dark bilingual software and AI portfolio design](assets/portfolio-live.webp)](https://muathmalsulami.github.io/learn-git-with-pathy/)
 
@@ -22,23 +22,23 @@ A bilingual space for documenting my projects and experience. Built with **HTML,
 
 ### 02 / Numoo — application & AI integration
 
-![Illustration of an application interface, integration layer and model output; not a screenshot](assets/numoo-flow.svg)
+![Illustration of an application interface, integration layer and model output; not a screenshot](assets/numoo-study.svg)
 
 *Illustration: application → integration → model output; not a screenshot.*
 
 A university team project exploring stock-direction forecasting. I built application interfaces and the **Python/Flask API layer** that connected the team's models to the application; my contribution did not include training the models.
 
-**Evidence:** [Project notes in my portfolio ↗](https://muathmalsulami.github.io/learn-git-with-pathy/#work). The project is presented as team work; no public source repository is claimed.
+**Evidence:** [Project notes in my portfolio ↗](https://muathmalsulami.github.io/learn-git-with-pathy/#work). No public source repository is claimed.
 
 ### 03 / Monitoring & observability
 
-![Illustration of connected monitoring, visualization and logging components; not operational data](assets/observability-flow.svg)
+![Illustration of connected monitoring, visualization and logging components; not operational data](assets/systems-study.svg)
 
 *Illustration: a conceptual monitoring workflow; no operational data.*
 
-During my **2025 IT cooperative training** at the National Center for Meteorology in Jeddah, I worked on a training-environment monitoring and logging setup. I used **Docker Compose, Node Exporter, Prometheus, Grafana and Loki**, including dashboards, queries and simulated-failure checks.
+During my **2025 IT cooperative training** at the National Center for Meteorology in Jeddah, I worked on a training-environment monitoring and logging setup. I used **Docker Compose, Node Exporter, Prometheus, Grafana and Loki**, including monitoring dashboards and PromQL queries.
 
-**Evidence:** [Training overview in my portfolio ↗](https://muathmalsulami.github.io/learn-git-with-pathy/#journey). This describes training work, not a public production system.
+**Evidence:** [Training overview in my portfolio ↗](https://muathmalsulami.github.io/learn-git-with-pathy/#journey).
 
 ## How I build
 

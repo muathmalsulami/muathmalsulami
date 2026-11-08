@@ -31,3 +31,9 @@ Branch rendering is not publication. GitHub mobile and light-mode screenshots an
 The hero is now a text-free, layered path; its meaning and headline remain readable Markdown even if images are disabled or displayed at narrow widths. Numoo and monitoring diagrams are clearly labeled illustrations, not application captures or operational data. The portfolio screenshot remains a real capture from the current public site.
 
 GitHub theme settings can differ from the operating system color scheme; testing exposed a mismatch with theme-specific `<picture>` sources. The artwork now has a transparent background and a single green line color suitable for both page themes. Test the resulting profile on GitHub itself, not only the SVG renderer. The local test `node verify-profile.cjs` checks required assets, basic SVG safety, key content, alt descriptions and file-size limits; it is not a full accessibility or broken-link audit.
+
+## Final polish — personal working path
+
+The signature uses three related paths that share a beginning, converge, and continue: an editorial metaphor for application work, intelligent integration and the systems that support it. It is not an approved M logo. The two project studies reuse that same line language, are deliberately smaller than the real portfolio screenshot, and do not purport to depict a real application or operating environment. The simulated-failure claim was removed in this round to keep the public wording conservative.
+
+Final proposed settings: Bio `CS & AI graduate building software, integrating intelligent features, and learning how systems work.` Website `https://muathmalsulami.github.io/learn-git-with-pathy/`. Retain the existing LinkedIn social link. Pin only `muathmalsulami/learn-git-with-pathy`. Keep the existing accurate repository description; no topic changes are required. Do not apply these settings until approval.
