@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/signature-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/signature-light.svg">
-  <img alt="An abstract path connects ideas and systems through layered geometric forms." src="assets/signature-light.svg" width="1200">
-</picture>
+<img src="assets/signature-dark.svg" alt="An abstract path connects ideas and systems through layered geometric forms." width="1200">
 
 # Muath Alsulami
 
