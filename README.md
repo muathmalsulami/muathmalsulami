@@ -3,7 +3,7 @@
 **Software development · AI integration · Observability**<br>
 <span lang="ar" dir="rtl">معاذ السلمي</span> · Makkah, Saudi Arabia
 
-I build application interfaces and the APIs that connect them to models and services. I use logs and metrics to understand what happens across those boundaries.
+I build application interfaces, connect them to models through APIs, and use metrics and logs to understand how services behave.
 
 [**Selected work**](#selected-work) · [Portfolio](https://muathmalsulami.github.io/) · [LinkedIn](https://www.linkedin.com/in/muath-m-alsulami/) · [Email](mailto:muath.m.alsulami@gmail.com)
 
@@ -15,7 +15,7 @@ I build application interfaces and the APIs that connect them to models and serv
 
 **Completed university team project · Application and API integration**
 
-A stock-direction forecasting prototype needed a way to expose the team's model outputs in an application. I built application interfaces and the **Python and Flask REST API** that connected the application to the team's models. My role covered application development and model integration.
+I built the application interfaces and **Python and Flask REST API** for a stock-direction forecasting prototype. The API exposed predictions from models trained by other team members.
 
 [Read the Numoo case study](https://muathmalsulami.github.io/?case=numoo)
 

@@ -4,7 +4,7 @@ const { join } = require('node:path');
 const { execFileSync } = require('node:child_process');
 
 const root = __dirname;
-const readme = readFileSync(join(root, 'README.md'), 'utf8');
+const readme = readFileSync(join(root, 'README.md'), 'utf8').replaceAll('\r\n', '\n');
 const identity = join(root, 'assets', 'identity');
 
 execFileSync(process.execPath, [join(root, 'scripts', 'generate-identity.cjs'), '--check'], { stdio: 'inherit' });
