@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="650" viewBox="0 0 600 650" role="img">
+  <title>Conceptual project studies. Numoo connects a web interface to teammates’ models with Flask. NCM connects host metrics and logs. The portfolio pairs Arabic and English layouts.</title>
+  <style>.paper{fill:#f9eee5}.s-paper{stroke:#f9eee5}.stop-paper{stop-color:#f9eee5}.ink{fill:#291d37}.s-ink{stroke:#291d37}.stop-ink{stop-color:#291d37}.muted{fill:#623a66}.s-muted{stroke:#623a66}.stop-muted{stop-color:#623a66}.tone{fill:#e7c8cd}.s-tone{stroke:#e7c8cd}.stop-tone{stop-color:#e7c8cd}.amber{fill:#e9a256}.s-amber{stroke:#e9a256}.stop-amber{stop-color:#e9a256}.coral{fill:#bd382d}.s-coral{stroke:#bd382d}.stop-coral{stop-color:#bd382d}.iris{fill:#40398e}.s-iris{stroke:#40398e}.stop-iris{stop-color:#40398e}.rule{fill:#a080a0}.s-rule{stroke:#a080a0}.stop-rule{stop-color:#a080a0}.surface{fill:#fff9ef}.s-surface{stroke:#fff9ef}.stop-surface{stop-color:#fff9ef}.rose{fill:#bc7e99}.s-rose{stroke:#bc7e99}.stop-rose{stop-color:#bc7e99}@media(prefers-color-scheme:dark){.paper{fill:#23192f}.s-paper{stroke:#23192f}.stop-paper{stop-color:#23192f}.ink{fill:#fff0e5}.s-ink{stroke:#fff0e5}.stop-ink{stop-color:#fff0e5}.muted{fill:#e8c4dd}.s-muted{stroke:#e8c4dd}.stop-muted{stop-color:#e8c4dd}.tone{fill:#503451}.s-tone{stroke:#503451}.stop-tone{stop-color:#503451}.amber{fill:#ffd087}.s-amber{stroke:#ffd087}.stop-amber{stop-color:#ffd087}.coral{fill:#f77661}.s-coral{stroke:#f77661}.stop-coral{stop-color:#f77661}.iris{fill:#a99bf9}.s-iris{stroke:#a99bf9}.stop-iris{stop-color:#a99bf9}.rule{fill:#775779}.s-rule{stroke:#775779}.stop-rule{stop-color:#775779}.surface{fill:#3a2744}.s-surface{stroke:#3a2744}.stop-surface{stop-color:#3a2744}.rose{fill:#c890ac}.s-rose{stroke:#c890ac}.stop-rose{stop-color:#c890ac}}text{font-family:Arial,Helvetica,sans-serif}.serif{font-family:Georgia,serif;letter-spacing:-.055em}.mono{font-family:Consolas,monospace;letter-spacing:.10em}</style>
+  <defs>
+    <linearGradient id="field" x2="1" y2="1"><stop class="stop-surface"/><stop offset="1" class="stop-tone"/></linearGradient>
+    <linearGradient id="heat" x1="0" y1="1" x2="1" y2="0"><stop class="stop-coral"/><stop offset="1" class="stop-amber"/></linearGradient>
+    <linearGradient id="fold" x2="1" y2="1"><stop class="stop-iris"/><stop offset="1" class="stop-rose"/></linearGradient>
+    <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M 0 6 L 6 0" class="s-rule" stroke-width=".65" opacity=".6"/></pattern>
+  </defs>
+  <clipPath id="gallery"><rect width="600" height="650" rx="15"/></clipPath><g clip-path="url(#gallery)"><rect x="0" y="0" width="600" height="650" rx="0" class="rule"/><g transform="scale(1.3333333333333333 0.8576923076923076)"><rect x="0" y="0" width="450" height="260" rx="0" class="paper"/>
+    <path d="M 0 174 L 450 67 V 260 H 0 Z" fill="url(#field)"/>
+    <path d="M 14 228 L 438 123 V 244 H 14 Z" fill="url(#hatch)" opacity=".35"/>
+    <path class="surface s-rule" stroke-width=".8" d="M 269 105 L 376 76 L 376 142 L 269 171 Z"/><path class="tone s-rule" stroke-width=".8" d="M 282 95 L 389 66 L 389 132 L 282 161 Z"/><path class="surface s-rule" stroke-width=".8" d="M 295 85 L 402 56 L 402 122 L 295 151 Z"/><path class="tone s-rule" stroke-width=".8" d="M 308 75 L 415 46 L 415 112 L 308 141 Z"/>
+    <path d="M 42 191 L 211 191 Q 229 191 236 172 L 252 130 H 324" fill="none" class="s-coral" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="45" y="76" width="162" height="105" rx="9" class="ink"/>
+    <rect x="45" y="69" width="162" height="105" rx="9" class="surface s-rule"/>
+    <path d="M 46 91 H 206 M 57 105 H 111 M 57 115 H 95" fill="none" class="s-rule" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="58" cy="80" r="2.4" class="coral"/><circle cx="66" cy="80" r="2.4" class="amber"/><circle cx="74" cy="80" r="2.4" class="iris"/>
+    <path d="M 61 153 L 84 145 L 107 148 L 126 128 L 144 134 L 170 114 L 191 107" fill="none" class="s-iris" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="324" cy="130" r="6" class="iris"/><circle cx="236" cy="174" r="6" class="coral"/>
+    <text x="24" y="40" font-size="29" font-weight="600" class="ink serif">Numoo</text>
+    <text x="45" y="208" font-size="11" font-weight="600" class="muted mono">APP</text><text x="202" y="208" font-size="11" font-weight="600" class="muted mono">FLASK API</text><text x="313" y="208" font-size="11" font-weight="600" class="muted mono">TEAM MODEL</text>
+  </g><g transform="translate(0 224) scale(1)"><g transform="scale(1.3333333333333333 0.8076923076923077)"><rect x="0" y="0" width="450" height="260" rx="0" class="surface"/>
+    <path d="M 0 165 L 450 51 V 260 H 0 Z" fill="url(#field)"/><path d="M 109 107 L 377 51 L 429 92 L 163 150 Z" class="surface s-rule" stroke-width=".8"/><path d="M 109 125 L 377 69 L 429 110 L 163 168 Z" class="tone s-rule" stroke-width=".8"/><path d="M 109 143 L 377 87 L 429 128 L 163 186 Z" class="surface s-rule" stroke-width=".8"/><path d="M 109 161 L 377 105 L 429 146 L 163 204 Z" class="tone s-rule" stroke-width=".8"/>
+    <path d="M 35 193 H 87 L 133 165 H 162 L 202 148 L 242 155 L 276 116 L 300 118 L 337 104 L 362 110 L 392 85" fill="none" class="s-iris" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 43 219 H 123 M 146 219 H 227 M 248 219 H 409" fill="none" class="s-rule" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="87" cy="193" r="5" class="coral"/><circle cx="276" cy="116" r="5" class="amber"/><circle cx="392" cy="85" r="5" class="iris"/>
+    <text x="24" y="40" font-size="29" font-weight="600" class="ink serif">NCM</text>
+    <text x="43" y="239" font-size="11" font-weight="600" class="muted mono">HOST</text><text x="146" y="239" font-size="11" font-weight="600" class="muted mono">METRICS</text><text x="248" y="239" font-size="11" font-weight="600" class="muted mono">LOGS</text></g></g><g transform="translate(0 435) scale(1)"><g transform="scale(1.3333333333333333 0.8269230769230769)"><rect x="0" y="0" width="450" height="260" rx="0" class="paper"/>
+    <path d="M 0 179 L 450 57 V 260 H 0 Z" fill="url(#field)"/>
+    <path d="M 206 0 H 450 V 260 H 303 Z" fill="url(#hatch)" opacity=".28"/>
+    <g transform="translate(56 78) scale(1)">
+    <rect x="0" y="9" width="139" height="132" rx="7" class="ink"/><rect x="0" y="0" width="139" height="132" rx="7" class="surface s-rule"/>
+    <path d="M 1 27 H 138 V 73 H 1 Z" fill="url(#fold)"/>
+    <path d="M 13 14 H 31 M 97 14 H 126" fill="none" class="s-rule" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 15 88 H 86 M 15 100 H 67 M 15 116 H 87" fill="none" class="s-muted" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="15" y="57" font-size="20" font-weight="600" class="surface">EN</text></g><g transform="translate(252 47) scale(1)">
+    <rect x="0" y="9" width="139" height="132" rx="7" class="ink"/><rect x="0" y="0" width="139" height="132" rx="7" class="surface s-rule"/>
+    <path d="M 1 27 H 138 V 73 H 1 Z" fill="url(#fold)"/>
+    <path d="M 13 14 H 31 M 97 14 H 126" fill="none" class="s-rule" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 54 88 H 125 M 74 100 H 125 M 53 116 H 125" fill="none" class="s-muted" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="99" y="57" font-size="20" font-weight="600" class="surface">ع</text></g>
+    <path d="M 194 147 C 216 147 221 114 251 111" fill="none" class="s-coral" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="221" cy="129" r="4.5" class="amber"/>
+    <text x="24" y="38" font-size="29" font-weight="600" class="ink serif">Bilingual portfolio</text>
+    <text x="57" y="236" font-size="11" font-weight="600" class="muted mono">ENGLISH</text><text x="251" y="236" font-size="11" font-weight="600" class="muted mono">ARABIC</text></g></g></g>
+</svg>
