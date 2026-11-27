@@ -4,9 +4,9 @@
 
 **Software development · AI integration · Observability**
 
-I develop web interfaces and Flask APIs. My project and co-op experience covers model integration, metrics and logs.
+I develop web interfaces and Flask APIs, with practical experience in model integration and monitoring. [Umm Al-Qura University, 2026 · Second Class Honors](#education-and-training).
 
-[Project evidence](#selected-work) · [Capabilities](#capabilities-at-a-glance) · [Education and training](#education-and-training)
+[Project evidence](#selected-work) · [Capabilities](#capabilities-at-a-glance) · [Education](#education-and-training)
 
 <picture>
   <source media="(prefers-reduced-motion: no-preference)" srcset="art/hero.svg">

@@ -72,7 +72,8 @@ function hero(key, d, animated) {
     <path class="highlight" d="M 800 176 C 724 122 673 202 614 205 H 559 V 275 H 615 C 688 271 725 208 800 253 Z"/>
     <g transform="translate(564 88) scale(1.57)"><g class="fold">${mark[key]}</g></g>
     <g class="copy">${text(42,107,'Software',81)}${text(42,191,'in use.',95,'accent')}${text(45,246,'Interfaces · APIs · systems',29,'second',600)}</g>
-    <path class="drawing s-ink" d="M 429 268 L 494 203 Q 524 173 553 173 H 591 Q 624 173 649 148 L 682 115" fill="none" stroke-width="4" stroke-linecap="round" pathLength="100"/>
+    <path class="drawing s-ink" d="M 430 266 L 484 216 Q 512 190 538 190 H 557" fill="none" stroke-width="4" stroke-linecap="round" pathLength="100"/>
+    <circle class="accent" cx="558" cy="190" r="6"/>
     `;
     animation = `.fold{transform-box:fill-box;transform-origin:center;animation:fold 1.4s .35s both}
       .copy{animation:appear 1.5s .1s both}.drawing{stroke-dasharray:100;animation:draw 2.3s 1.6s both}
@@ -92,7 +93,11 @@ function hero(key, d, animated) {
         <g class="module layer-${i}">
           <path class="second" d="M -54 11 L 0 41 L 54 11 V 39 L 0 69 L -54 39 Z"/>
           <path class="bg ${stroke}" stroke-width="3" d="${shape}"/>
-          <path class="highlight" d="M -20 12 L 0 1 L 20 12 L 0 23 Z"/>
+          ${[
+            '<path class="highlight" d="M -24 12 L 0 -2 L 24 12 L 0 26 Z"/><path class="s-ink" fill="none" stroke-width="1.7" d="M -11 12 L 0 6 L 11 12 M -6 17 L 0 14 L 6 17"/>',
+            '<path class="highlight" d="M -25 12 L 0 -2 L 25 12 L 0 26 Z"/><path class="s-ink" fill="none" stroke-width="1.7" d="M -10 11 L 0 17 L 11 11 M 0 17 V 8"/>',
+            '<path class="highlight" d="M -24 12 L 0 -2 L 24 12 L 0 26 Z"/><path class="s-ink" fill="none" stroke-width="1.7" d="M -11 13 L -5 13 L 0 7 L 5 17 L 11 10"/>',
+          ][i]}
         </g>
       </g>${text(x-(i===0?65:i===1?73:52),261,label,32,'ink')}`).join('')}
       ${text(33,53,'Application systems',45)}

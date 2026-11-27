@@ -88,11 +88,11 @@ const variants = {
 
 **Software development · AI integration · Observability**
 
-I build the point of contact between people and software, then follow the API and the system signals that make the experience work.
+${hero('A split ribbon assembles into an open M beside a line that draws toward the signature.')}
+
+I build web interfaces, connect them to APIs, and follow the signals that show how the software behaves.
 
 [Selected work](#selected-work) · [Capabilities](#capabilities) · [Journey](#journey)
-
-${hero('A split ribbon assembles into an open M as a line connects the interface to the signature.')}
 
 ## Selected work
 
@@ -124,7 +124,7 @@ ${close('Open M formed by two folded ribbons')}`,
 
 I build interfaces, connect them to models through APIs, and inspect service behavior with metrics and logs.
 
-[Engineering capabilities](#engineering-capabilities) · [Selected work](#selected-work) · [Journey](#journey)
+[Capabilities](#engineering-capabilities) · [Selected work](#selected-work) · [Journey](#journey)
 
 ${hero('Three isometric modules seat in sequence, linking an interface, a model API and service signals.')}
 
@@ -154,9 +154,9 @@ ${close('Stepped junction formed by three fitted planes')}`,
 
 **Software development · AI integration · Observability**
 
-I develop web interfaces and Flask APIs. My project and co-op experience covers model integration, metrics and logs.
+I develop web interfaces and Flask APIs, with practical experience in model integration and monitoring. [Umm Al-Qura University, 2026 · Second Class Honors](#education-and-training).
 
-[Project evidence](#selected-work) · [Capabilities](#capabilities-at-a-glance) · [Education and training](#education-and-training)
+[Project evidence](#selected-work) · [Capabilities](#capabilities-at-a-glance) · [Education](#education-and-training)
 
 ${hero('Build, Integrate and Observe register in sequence beside an open bracket signature.')}
 

@@ -6,7 +6,7 @@
 
 I build interfaces, connect them to models through APIs, and inspect service behavior with metrics and logs.
 
-[Engineering capabilities](#engineering-capabilities) · [Selected work](#selected-work) · [Journey](#journey)
+[Capabilities](#engineering-capabilities) · [Selected work](#selected-work) · [Journey](#journey)
 
 <picture>
   <source media="(prefers-reduced-motion: no-preference)" srcset="art/hero.svg">

@@ -19,19 +19,19 @@
         <g class="module layer-0">
           <path class="second" d="M -54 11 L 0 41 L 54 11 V 39 L 0 69 L -54 39 Z"/>
           <path class="bg s-accent" stroke-width="3" d="M -53 11 L 0 -19 L 55 11 L 0 41 Z"/>
-          <path class="highlight" d="M -20 12 L 0 1 L 20 12 L 0 23 Z"/>
+          <path class="highlight" d="M -24 12 L 0 -2 L 24 12 L 0 26 Z"/><path class="s-ink" fill="none" stroke-width="1.7" d="M -11 12 L 0 6 L 11 12 M -6 17 L 0 14 L 6 17"/>
         </g>
       </g><text x="75" y="261" font-size="32" font-weight="700" class="ink">Interface</text><g transform="translate(400 133)">
         <g class="module layer-1">
           <path class="second" d="M -54 11 L 0 41 L 54 11 V 39 L 0 69 L -54 39 Z"/>
           <path class="bg s-second" stroke-width="3" d="M -54 11 L 0 -19 L 54 11 L 0 41 Z"/>
-          <path class="highlight" d="M -20 12 L 0 1 L 20 12 L 0 23 Z"/>
+          <path class="highlight" d="M -25 12 L 0 -2 L 25 12 L 0 26 Z"/><path class="s-ink" fill="none" stroke-width="1.7" d="M -10 11 L 0 17 L 11 11 M 0 17 V 8"/>
         </g>
       </g><text x="327" y="261" font-size="32" font-weight="700" class="ink">Model API</text><g transform="translate(660 133)">
         <g class="module layer-2">
           <path class="second" d="M -54 11 L 0 41 L 54 11 V 39 L 0 69 L -54 39 Z"/>
           <path class="bg s-accent" stroke-width="3" d="M -54 11 L 0 -19 L 54 11 L 0 41 Z"/>
-          <path class="highlight" d="M -20 12 L 0 1 L 20 12 L 0 23 Z"/>
+          <path class="highlight" d="M -24 12 L 0 -2 L 24 12 L 0 26 Z"/><path class="s-ink" fill="none" stroke-width="1.7" d="M -11 13 L -5 13 L 0 7 L 5 17 L 11 10"/>
         </g>
       </g><text x="608" y="261" font-size="32" font-weight="700" class="ink">Signals</text>
       <text x="33" y="53" font-size="45" font-weight="700" class="ink">Application systems</text>

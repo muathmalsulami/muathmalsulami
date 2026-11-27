@@ -4,14 +4,14 @@
 
 **Software development · AI integration · Observability**
 
-I build the point of contact between people and software, then follow the API and the system signals that make the experience work.
-
-[Selected work](#selected-work) · [Capabilities](#capabilities) · [Journey](#journey)
-
 <picture>
   <source media="(prefers-reduced-motion: no-preference)" srcset="art/hero.svg">
-  <img src="art/hero-still.svg" alt="A split ribbon assembles into an open M as a line connects the interface to the signature.">
+  <img src="art/hero-still.svg" alt="A split ribbon assembles into an open M beside a line that draws toward the signature.">
 </picture>
+
+I build web interfaces, connect them to APIs, and follow the signals that show how the software behaves.
+
+[Selected work](#selected-work) · [Capabilities](#capabilities) · [Journey](#journey)
 
 ## Selected work
 

@@ -12,6 +12,7 @@
     <path class="highlight" d="M 800 176 C 724 122 673 202 614 205 H 559 V 275 H 615 C 688 271 725 208 800 253 Z"/>
     <g transform="translate(564 88) scale(1.57)"><g class="fold"><path class="accent" d="M 0 71 L 0 3 Q 0 0 4 0 H 22 L 48 31 L 75 0 H 95 Q 99 0 99 4 V 71 H 78 V 30 L 49 62 L 21 30 V 71 Z"/><path class="second" d="M 27 64 L 49 83 L 72 64 V 79 L 49 99 L 27 79 Z"/></g></g>
     <g class="copy"><text x="42" y="107" font-size="81" font-weight="700" class="ink">Software</text><text x="42" y="191" font-size="95" font-weight="700" class="accent">in use.</text><text x="45" y="246" font-size="29" font-weight="600" class="second">Interfaces · APIs · systems</text></g>
-    <path class="drawing s-ink" d="M 429 268 L 494 203 Q 524 173 553 173 H 591 Q 624 173 649 148 L 682 115" fill="none" stroke-width="4" stroke-linecap="round" pathLength="100"/>
+    <path class="drawing s-ink" d="M 430 266 L 484 216 Q 512 190 538 190 H 557" fill="none" stroke-width="4" stroke-linecap="round" pathLength="100"/>
+    <circle class="accent" cx="558" cy="190" r="6"/>
 
 </svg>
