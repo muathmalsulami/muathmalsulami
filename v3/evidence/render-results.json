@@ -2,46 +2,46 @@
   "v3-375-dark": {
     "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
   },
+  "v3-375-light": {
+    "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
+  },
   "v3-320-light": {
     "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
   },
   "v3-320-dark": {
     "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
   },
-  "v3-375-light": {
-    "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
-  },
-  "v3-390-dark": {
-    "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
-  },
   "v3-430-light": {
-    "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
-  },
-  "v3-390-light": {
     "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
   },
   "v3-430-dark": {
     "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
   },
-  "v3-768-dark": {
+  "v3-390-light": {
     "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
   },
-  "v3-1024-light": {
+  "v3-390-dark": {
     "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
   },
   "v3-768-light": {
     "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
   },
+  "v3-768-dark": {
+    "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
+  },
   "v3-1024-dark": {
+    "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
+  },
+  "v3-1024-light": {
+    "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
+  },
+  "v3-1440-light": {
     "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
   },
   "v3-1440-dark": {
     "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
   },
   "v3-1920-dark": {
-    "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
-  },
-  "v3-1440-light": {
     "error": "Expected values to be strictly equal:\n\n504 !== 200\n"
   },
   "v3-1920-light": {

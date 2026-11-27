@@ -1,0 +1,2468 @@
+{
+  "v3-320-light-false": {
+    "viewport": 320,
+    "pageScroll": 320,
+    "readmeWidth": 276,
+    "readmeScroll": 276,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-mobile-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": true,
+        "width": 276,
+        "height": 163,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 355
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities-mobile.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": true,
+        "width": 276,
+        "height": 113,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 246
+      },
+      {
+        "src": "https://preview.invalid/art/work-mobile.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": true,
+        "width": 276,
+        "height": 299,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 650
+      },
+      {
+        "src": "https://preview.invalid/art/journey-mobile.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": true,
+        "width": 276,
+        "height": 58,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 126
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": true,
+        "width": 44,
+        "height": 31,
+        "intrinsicWidth": 112,
+        "intrinsicHeight": 80
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  },
+  "v3-375-light-false": {
+    "viewport": 375,
+    "pageScroll": 375,
+    "readmeWidth": 331,
+    "readmeScroll": 331,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-mobile-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": true,
+        "width": 331,
+        "height": 196,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 355
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities-mobile.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": true,
+        "width": 331,
+        "height": 136,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 246
+      },
+      {
+        "src": "https://preview.invalid/art/work-mobile.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": true,
+        "width": 331,
+        "height": 359,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 650
+      },
+      {
+        "src": "https://preview.invalid/art/journey-mobile.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": true,
+        "width": 331,
+        "height": 70,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 126
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": true,
+        "width": 44,
+        "height": 31,
+        "intrinsicWidth": 112,
+        "intrinsicHeight": 80
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  },
+  "v3-390-light-false": {
+    "viewport": 390,
+    "pageScroll": 390,
+    "readmeWidth": 346,
+    "readmeScroll": 346,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-mobile-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": true,
+        "width": 346,
+        "height": 205,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 355
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities-mobile.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": true,
+        "width": 346,
+        "height": 142,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 246
+      },
+      {
+        "src": "https://preview.invalid/art/work-mobile.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": true,
+        "width": 346,
+        "height": 375,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 650
+      },
+      {
+        "src": "https://preview.invalid/art/journey-mobile.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": true,
+        "width": 346,
+        "height": 73,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 126
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": true,
+        "width": 44,
+        "height": 31,
+        "intrinsicWidth": 112,
+        "intrinsicHeight": 80
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ],
+    "a11y": []
+  },
+  "v3-430-light-false": {
+    "viewport": 430,
+    "pageScroll": 430,
+    "readmeWidth": 386,
+    "readmeScroll": 386,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-mobile-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": true,
+        "width": 386,
+        "height": 228,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 355
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities-mobile.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": true,
+        "width": 386,
+        "height": 158,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 246
+      },
+      {
+        "src": "https://preview.invalid/art/work-mobile.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": true,
+        "width": 386,
+        "height": 418,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 650
+      },
+      {
+        "src": "https://preview.invalid/art/journey-mobile.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": true,
+        "width": 386,
+        "height": 81,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 126
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": true,
+        "width": 44,
+        "height": 31,
+        "intrinsicWidth": 112,
+        "intrinsicHeight": 80
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  },
+  "v3-768-light-false": {
+    "viewport": 768,
+    "pageScroll": 768,
+    "readmeWidth": 704,
+    "readmeScroll": 704,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": true,
+        "width": 704,
+        "height": 246,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 322
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": true,
+        "width": 704,
+        "height": 103,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 134
+      },
+      {
+        "src": "https://preview.invalid/art/work.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": true,
+        "width": 704,
+        "height": 259,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 338
+      },
+      {
+        "src": "https://preview.invalid/art/journey.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": true,
+        "width": 704,
+        "height": 121,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 158
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": true,
+        "width": 44,
+        "height": 31,
+        "intrinsicWidth": 112,
+        "intrinsicHeight": 80
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  },
+  "v3-1024-light-false": {
+    "viewport": 1024,
+    "pageScroll": 1024,
+    "readmeWidth": 918,
+    "readmeScroll": 918,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": true,
+        "width": 918,
+        "height": 321,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 322
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": true,
+        "width": 918,
+        "height": 134,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 134
+      },
+      {
+        "src": "https://preview.invalid/art/work.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": true,
+        "width": 918,
+        "height": 337,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 338
+      },
+      {
+        "src": "https://preview.invalid/art/journey.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": true,
+        "width": 918,
+        "height": 158,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 158
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": true,
+        "width": 44,
+        "height": 31,
+        "intrinsicWidth": 112,
+        "intrinsicHeight": 80
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  },
+  "v3-1920-light-false": {
+    "viewport": 1920,
+    "pageScroll": 1920,
+    "readmeWidth": 918,
+    "readmeScroll": 918,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": true,
+        "width": 918,
+        "height": 321,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 322
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": true,
+        "width": 918,
+        "height": 134,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 134
+      },
+      {
+        "src": "https://preview.invalid/art/work.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": true,
+        "width": 918,
+        "height": 337,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 338
+      },
+      {
+        "src": "https://preview.invalid/art/journey.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": true,
+        "width": 918,
+        "height": 158,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 158
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": true,
+        "width": 44,
+        "height": 31,
+        "intrinsicWidth": 112,
+        "intrinsicHeight": 80
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  },
+  "v3-320-dark-false": {
+    "viewport": 320,
+    "pageScroll": 320,
+    "readmeWidth": 276,
+    "readmeScroll": 276,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-mobile-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": true,
+        "width": 276,
+        "height": 163,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 355
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities-mobile.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": true,
+        "width": 276,
+        "height": 113,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 246
+      },
+      {
+        "src": "https://preview.invalid/art/work-mobile.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": true,
+        "width": 276,
+        "height": 299,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 650
+      },
+      {
+        "src": "https://preview.invalid/art/journey-mobile.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": true,
+        "width": 276,
+        "height": 58,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 126
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": true,
+        "width": 44,
+        "height": 31,
+        "intrinsicWidth": 112,
+        "intrinsicHeight": 80
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  },
+  "v3-1440-light-false": {
+    "viewport": 1440,
+    "pageScroll": 1440,
+    "readmeWidth": 918,
+    "readmeScroll": 918,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": true,
+        "width": 918,
+        "height": 321,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 322
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": true,
+        "width": 918,
+        "height": 134,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 134
+      },
+      {
+        "src": "https://preview.invalid/art/work.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": true,
+        "width": 918,
+        "height": 337,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 338
+      },
+      {
+        "src": "https://preview.invalid/art/journey.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": true,
+        "width": 918,
+        "height": 158,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 158
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": true,
+        "width": 44,
+        "height": 31,
+        "intrinsicWidth": 112,
+        "intrinsicHeight": 80
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ],
+    "a11y": []
+  },
+  "v3-430-dark-false": {
+    "viewport": 430,
+    "pageScroll": 430,
+    "readmeWidth": 386,
+    "readmeScroll": 386,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-mobile-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": true,
+        "width": 386,
+        "height": 228,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 355
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities-mobile.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": true,
+        "width": 386,
+        "height": 158,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 246
+      },
+      {
+        "src": "https://preview.invalid/art/work-mobile.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": true,
+        "width": 386,
+        "height": 418,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 650
+      },
+      {
+        "src": "https://preview.invalid/art/journey-mobile.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": true,
+        "width": 386,
+        "height": 81,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 126
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": true,
+        "width": 44,
+        "height": 31,
+        "intrinsicWidth": 112,
+        "intrinsicHeight": 80
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  },
+  "v3-375-dark-false": {
+    "viewport": 375,
+    "pageScroll": 375,
+    "readmeWidth": 331,
+    "readmeScroll": 331,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-mobile-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": true,
+        "width": 331,
+        "height": 196,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 355
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities-mobile.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": true,
+        "width": 331,
+        "height": 136,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 246
+      },
+      {
+        "src": "https://preview.invalid/art/work-mobile.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": true,
+        "width": 331,
+        "height": 359,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 650
+      },
+      {
+        "src": "https://preview.invalid/art/journey-mobile.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": true,
+        "width": 331,
+        "height": 70,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 126
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": true,
+        "width": 44,
+        "height": 31,
+        "intrinsicWidth": 112,
+        "intrinsicHeight": 80
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  },
+  "v3-390-dark-false": {
+    "viewport": 390,
+    "pageScroll": 390,
+    "readmeWidth": 346,
+    "readmeScroll": 346,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-mobile-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": true,
+        "width": 346,
+        "height": 205,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 355
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities-mobile.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": true,
+        "width": 346,
+        "height": 142,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 246
+      },
+      {
+        "src": "https://preview.invalid/art/work-mobile.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": true,
+        "width": 346,
+        "height": 375,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 650
+      },
+      {
+        "src": "https://preview.invalid/art/journey-mobile.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": true,
+        "width": 346,
+        "height": 73,
+        "intrinsicWidth": 600,
+        "intrinsicHeight": 126
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": true,
+        "width": 44,
+        "height": 31,
+        "intrinsicWidth": 112,
+        "intrinsicHeight": 80
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ],
+    "a11y": []
+  },
+  "v3-1024-dark-false": {
+    "viewport": 1024,
+    "pageScroll": 1024,
+    "readmeWidth": 918,
+    "readmeScroll": 918,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": true,
+        "width": 918,
+        "height": 321,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 322
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": true,
+        "width": 918,
+        "height": 134,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 134
+      },
+      {
+        "src": "https://preview.invalid/art/work.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": true,
+        "width": 918,
+        "height": 337,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 338
+      },
+      {
+        "src": "https://preview.invalid/art/journey.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": true,
+        "width": 918,
+        "height": 158,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 158
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": true,
+        "width": 44,
+        "height": 31,
+        "intrinsicWidth": 112,
+        "intrinsicHeight": 80
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  },
+  "v3-768-dark-false": {
+    "viewport": 768,
+    "pageScroll": 768,
+    "readmeWidth": 704,
+    "readmeScroll": 704,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": true,
+        "width": 704,
+        "height": 246,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 322
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": true,
+        "width": 704,
+        "height": 103,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 134
+      },
+      {
+        "src": "https://preview.invalid/art/work.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": true,
+        "width": 704,
+        "height": 259,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 338
+      },
+      {
+        "src": "https://preview.invalid/art/journey.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": true,
+        "width": 704,
+        "height": 121,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 158
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": true,
+        "width": 44,
+        "height": 31,
+        "intrinsicWidth": 112,
+        "intrinsicHeight": 80
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  },
+  "v3-1440-dark-false": {
+    "viewport": 1440,
+    "pageScroll": 1440,
+    "readmeWidth": 918,
+    "readmeScroll": 918,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": true,
+        "width": 918,
+        "height": 321,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 322
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": true,
+        "width": 918,
+        "height": 134,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 134
+      },
+      {
+        "src": "https://preview.invalid/art/work.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": true,
+        "width": 918,
+        "height": 337,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 338
+      },
+      {
+        "src": "https://preview.invalid/art/journey.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": true,
+        "width": 918,
+        "height": 158,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 158
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": true,
+        "width": 44,
+        "height": 31,
+        "intrinsicWidth": 112,
+        "intrinsicHeight": 80
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ],
+    "a11y": []
+  },
+  "v3-1920-dark-false": {
+    "viewport": 1920,
+    "pageScroll": 1920,
+    "readmeWidth": 918,
+    "readmeScroll": 918,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": true,
+        "width": 918,
+        "height": 321,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 322
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": true,
+        "width": 918,
+        "height": 134,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 134
+      },
+      {
+        "src": "https://preview.invalid/art/work.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": true,
+        "width": 918,
+        "height": 337,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 338
+      },
+      {
+        "src": "https://preview.invalid/art/journey.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": true,
+        "width": 918,
+        "height": 158,
+        "intrinsicWidth": 920,
+        "intrinsicHeight": 158
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": true,
+        "width": 44,
+        "height": 31,
+        "intrinsicWidth": 112,
+        "intrinsicHeight": 80
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  },
+  "b-390-light-false": {
+    "viewport": 390,
+    "pageScroll": 390,
+    "readmeWidth": 346,
+    "readmeScroll": 346,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-still.svg",
+        "alt": "Three isometric modules seat in sequence, linking an interface, a model API and service signals.",
+        "loaded": true,
+        "width": 346,
+        "height": 130,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 300
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 346,
+        "height": 57,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 132
+      },
+      {
+        "src": "https://preview.invalid/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 346,
+        "height": 50,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 116
+      },
+      {
+        "src": "https://preview.invalid/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 346,
+        "height": 50,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 116
+      },
+      {
+        "src": "https://preview.invalid/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 346,
+        "height": 50,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 116
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Stepped junction formed by three fitted planes",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "intrinsicWidth": 124,
+        "intrinsicHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Journey",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Numoo",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo",
+        "valid": true
+      },
+      {
+        "name": "NCM",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  },
+  "b-1440-light-false": {
+    "viewport": 1440,
+    "pageScroll": 1440,
+    "readmeWidth": 918,
+    "readmeScroll": 918,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-still.svg",
+        "alt": "Three isometric modules seat in sequence, linking an interface, a model API and service signals.",
+        "loaded": true,
+        "width": 800,
+        "height": 300,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 300
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 800,
+        "height": 132,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 132
+      },
+      {
+        "src": "https://preview.invalid/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 116
+      },
+      {
+        "src": "https://preview.invalid/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 116
+      },
+      {
+        "src": "https://preview.invalid/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 116
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Stepped junction formed by three fitted planes",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "intrinsicWidth": 124,
+        "intrinsicHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Journey",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Numoo",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo",
+        "valid": true
+      },
+      {
+        "name": "NCM",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  },
+  "v3-390-dark-true": {
+    "viewport": 390,
+    "pageScroll": 390,
+    "readmeWidth": 346,
+    "readmeScroll": 346,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-mobile-still.svg",
+        "alt": "A folded M and a sweeping return stroke join in relief. A single route crosses both pieces and settles at a signal point.",
+        "loaded": false,
+        "width": 346,
+        "height": 72,
+        "intrinsicWidth": 0,
+        "intrinsicHeight": 0
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities-mobile.svg",
+        "alt": "Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.",
+        "loaded": false,
+        "width": 346,
+        "height": 96,
+        "intrinsicWidth": 0,
+        "intrinsicHeight": 0
+      },
+      {
+        "src": "https://preview.invalid/art/work-mobile.svg",
+        "alt": "Three conceptual studies show a web interface reaching a model through Flask, monitoring layers for host metrics and logs, and paired English and Arabic website layouts.",
+        "loaded": false,
+        "width": 346,
+        "height": 96,
+        "intrinsicWidth": 0,
+        "intrinsicHeight": 0
+      },
+      {
+        "src": "https://preview.invalid/art/journey-mobile.svg",
+        "alt": "Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026",
+        "loaded": false,
+        "width": 346,
+        "height": 48,
+        "intrinsicWidth": 0,
+        "intrinsicHeight": 0
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Folded personal signature",
+        "loaded": false,
+        "width": 199,
+        "height": 24,
+        "intrinsicWidth": 0,
+        "intrinsicHeight": 0
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Education",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo application",
+        "valid": true
+      },
+      {
+        "name": "co-op training",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  },
+  "b-390-dark-false": {
+    "viewport": 390,
+    "pageScroll": 390,
+    "readmeWidth": 346,
+    "readmeScroll": 346,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-still.svg",
+        "alt": "Three isometric modules seat in sequence, linking an interface, a model API and service signals.",
+        "loaded": true,
+        "width": 346,
+        "height": 130,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 300
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 346,
+        "height": 57,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 132
+      },
+      {
+        "src": "https://preview.invalid/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 346,
+        "height": 50,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 116
+      },
+      {
+        "src": "https://preview.invalid/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 346,
+        "height": 50,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 116
+      },
+      {
+        "src": "https://preview.invalid/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 346,
+        "height": 50,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 116
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Stepped junction formed by three fitted planes",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "intrinsicWidth": 124,
+        "intrinsicHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Journey",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Numoo",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo",
+        "valid": true
+      },
+      {
+        "name": "NCM",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  },
+  "b-1440-dark-false": {
+    "viewport": 1440,
+    "pageScroll": 1440,
+    "readmeWidth": 918,
+    "readmeScroll": 918,
+    "arabic": "معاذ السلمي",
+    "hasHonors": true,
+    "work": true,
+    "images": [
+      {
+        "src": "https://preview.invalid/art/hero-still.svg",
+        "alt": "Three isometric modules seat in sequence, linking an interface, a model API and service signals.",
+        "loaded": true,
+        "width": 800,
+        "height": 300,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 300
+      },
+      {
+        "src": "https://preview.invalid/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 800,
+        "height": 132,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 132
+      },
+      {
+        "src": "https://preview.invalid/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 116
+      },
+      {
+        "src": "https://preview.invalid/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 116
+      },
+      {
+        "src": "https://preview.invalid/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "intrinsicWidth": 800,
+        "intrinsicHeight": 116
+      },
+      {
+        "src": "https://preview.invalid/art/signature.svg",
+        "alt": "Stepped junction formed by three fitted planes",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "intrinsicWidth": 124,
+        "intrinsicHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Capabilities",
+        "valid": true
+      },
+      {
+        "name": "Selected work",
+        "valid": true
+      },
+      {
+        "name": "Journey",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "Numoo",
+        "valid": true
+      },
+      {
+        "name": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "name": "Numoo",
+        "valid": true
+      },
+      {
+        "name": "NCM",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      },
+      {
+        "name": "",
+        "valid": true
+      }
+    ]
+  }
+}

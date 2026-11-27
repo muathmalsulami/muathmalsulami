@@ -1,0 +1,41 @@
+[
+  {
+    "key": "portfolio",
+    "status": 200,
+    "url": "https://muathmalsulami.github.io/"
+  },
+  {
+    "key": "numoo",
+    "status": 200,
+    "url": "https://muathmalsulami.github.io/?case=numoo",
+    "caseStudy": true,
+    "technicalReporting": true
+  },
+  {
+    "key": "ncm",
+    "status": 200,
+    "url": "https://muathmalsulami.github.io/?case=ncm",
+    "caseStudy": true,
+    "technicalReporting": false
+  },
+  {
+    "key": "source",
+    "status": 504,
+    "url": "https://github.com/muathmalsulami/muathmalsulami.github.io"
+  },
+  {
+    "key": "workflow",
+    "status": 504,
+    "url": "https://github.com/muathmalsulami/muathmalsulami/pull/1"
+  },
+  {
+    "key": "credential",
+    "status": 200,
+    "url": "https://learn.pathy.sa/certificate/PTHYHCR6WZ3G5Q93"
+  },
+  {
+    "key": "linkedIn",
+    "status": 999,
+    "url": "https://www.linkedin.com/in/muath-m-alsulami"
+  }
+]
