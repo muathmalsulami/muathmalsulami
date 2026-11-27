@@ -25,10 +25,10 @@ Umm Al-Qura University · 2026 · **Second Class Honors**
 
 | Engineering function | Where I applied it |
 | --- | --- |
-| **Build** | HTML, CSS and JavaScript for the [bilingual portfolio](#bilingual-portfolio). |
-| **Integrate** | Python, Flask and REST/JSON for the [Numoo application](#numoo). |
-| **Observe** | Docker Compose, Node Exporter, Prometheus, Grafana, Loki and PromQL in [co-op training](#national-center-for-meteorology). |
-| **Ship** | Git branches, pull requests, CI and review evidence in the [profile workflow](https://github.com/muathmalsulami/muathmalsulami/pull/1). |
+| **Build** | HTML, CSS and JavaScript for the [<ins>bilingual portfolio</ins>](#bilingual-portfolio). |
+| **Integrate** | Python, Flask and REST/JSON for the [<ins>Numoo application</ins>](#numoo). |
+| **Observe** | Docker Compose, Node Exporter, Prometheus, Grafana, Loki and PromQL in [<ins>co-op training</ins>](#national-center-for-meteorology). |
+| **Ship** | Git branches, pull requests, CI and review evidence in the [<ins>profile workflow</ins>](https://github.com/muathmalsulami/muathmalsulami/pull/1). |
 
 ## Selected work
 
@@ -42,17 +42,17 @@ Umm Al-Qura University · 2026 · **Second Class Honors**
 ### Numoo
 
 **Completed university graduation project · Team**<br>
-Built the application interfaces and Python/Flask REST API for a stock-direction forecasting prototype. The API exposed predictions from models trained by other team members. [Numoo case study](https://muathmalsulami.github.io/?case=numoo)
+Built the application interfaces and Python/Flask REST API for a stock-direction forecasting prototype. The API exposed predictions from models trained by other team members. [<ins>Numoo case study</ins>](https://muathmalsulami.github.io/?case=numoo)
 
 ### National Center for Meteorology
 
 **Completed IT co-op · Jeddah**<br>
-Worked with Docker Compose, Node Exporter, Prometheus, Grafana and Loki in a training setup. Used host metrics, dashboards, PromQL and logs, and documented the training work. [NCM training case study](https://muathmalsulami.github.io/?case=ncm)
+Worked with Docker Compose, Node Exporter, Prometheus, Grafana and Loki in a training setup. Used host metrics, dashboards, PromQL and logs, and documented the training work. [<ins>NCM training case study</ins>](https://muathmalsulami.github.io/?case=ncm)
 
 ### Bilingual portfolio
 
 **Published personal website**<br>
-Built an Arabic and English site with HTML, CSS and JavaScript, using Git and GitHub to track changes. It provides project context, contribution summaries and evidence. [Live portfolio](https://muathmalsulami.github.io/) · [Public source](https://github.com/muathmalsulami/muathmalsulami.github.io)
+Built an Arabic and English site with HTML, CSS and JavaScript, using Git and GitHub to track changes. It provides project context, contribution summaries and evidence. [<ins>Live portfolio</ins>](https://muathmalsulami.github.io/) · [<ins>Public source</ins>](https://github.com/muathmalsulami/muathmalsulami.github.io)
 
 ## Education and experience
 
@@ -63,7 +63,7 @@ Built an Arabic and English site with HTML, CSS and JavaScript, using Git and Gi
 
 **2025 · National Center for Meteorology** · IT cooperative training in monitoring and logging, Jeddah.<br>
 **2026 · Umm Al-Qura University** · B.Sc. Computer Science & Artificial Intelligence · **3.54/4.00, Second Class Honors**.<br>
-**2026 · Pathy** · Software Project Management (Git & GitHub). [Verify the certificate](https://learn.pathy.sa/certificate/PTHYHCR6WZ3G5Q93)
+**2026 · Pathy** · Software Project Management (Git & GitHub). [<ins>Verify the certificate</ins>](https://learn.pathy.sa/certificate/PTHYHCR6WZ3G5Q93)
 
 ## Contact
 
