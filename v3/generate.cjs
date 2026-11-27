@@ -110,7 +110,10 @@ function capabilities(small) {
       ${stroke(`M 8 29 H ${small?249:195}`,index%2?'s-rose':'s-rule')}
       ${icons}`);
   }).join('');
-  return svg(w,h,'Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.',rect(0,0,w,h,15,'surface')+body);
+  const connections = small
+    ? [`M 277 24 H 315 M 307 19 L 315 24 L 307 29`,`M 277 141 H 315 M 307 136 L 315 141 L 307 146`]
+    : [202,432,662].map(x=>`M ${x} 30 H ${x+34} L ${x+28} 25 M ${x+34} 30 L ${x+28} 35`);
+  return svg(w,h,'Build with HTML, CSS and JavaScript. Integrate with Python and Flask. Observe with Docker, Prometheus and Grafana. Ship with Git and GitHub.',rect(0,0,w,h,15,'surface')+body+connections.map(d=>stroke(d,'s-rose',1.4)).join(''));
 }
 
 function numoo(w,h) {
@@ -161,7 +164,11 @@ function portfolio(w,h){
     ${txt(57,236,'ENGLISH',11,'muted mono')}${txt(251,236,'ARABIC',11,'muted mono')}`);
 }
 function scaledScene(w,h,width,height,body){
-  return `<g transform="scale(${w/width} ${h/height})">${body}</g>`;
+  const sx=w/width, sy=h/height;
+  const natural=Math.sqrt(sx*sy);
+  const shape=body.replace(/<text x="([^"]+)" y="([^"]+)"/g, (tag,x,y)=>
+    `${tag} transform="translate(${x} ${y}) scale(${(natural/sx).toFixed(4)} ${(natural/sy).toFixed(4)}) translate(-${x} -${y})"`);
+  return `<g transform="scale(${sx} ${sy})">${shape}</g>`;
 }
 function gallery(small){
   const w=small?600:920,h=small?650:338;
@@ -171,7 +178,13 @@ function gallery(small){
   return svg(w,h,'Conceptual project studies. Numoo connects a web interface to teammates’ models with Flask. NCM connects host metrics and logs. The portfolio pairs Arabic and English layouts.',`<clipPath id="gallery"><rect width="${w}" height="${h}" rx="15"/></clipPath><g clip-path="url(#gallery)">${rect(0,0,w,h,0,'rule')}${scenes}</g>`);
 }
 
-function timeline(){
+function timeline(small=false){
+  if(small){
+    const entries=[[105,78,"2025","NCM"],[300,47,"2026","University"],[495,78,"2026","Pathy"]];
+    return svg(600,126,"NCM co-op in 2025, followed by university graduation and Pathy training in 2026.",
+      rect(0,0,600,126,13,"surface")+stroke("M 22 78 H 156 L 204 47 H 395 L 442 78 H 578","s-rule",2)+
+      entries.map(([x,y,year,name],i)=>dot(x,y,5,i===1?"iris":"coral")+txt(x-24,y-15,year,18,"muted mono")+txt(x-name.length*5,y+28,name,24,"ink serif")).join(""));
+  }
   const moments=[
     [145,87,'2025','NCM co-op','coral'],
     [449,57,'2026','Umm Al-Qura','iris'],
@@ -191,7 +204,7 @@ const output={
   'hero-mobile.svg':hero(true,true),'hero-mobile-still.svg':hero(true,false),
   'capabilities.svg': capabilities(false),'capabilities-mobile.svg': capabilities(true),
   'work.svg':gallery(false),'work-mobile.svg':gallery(true),
-  'journey.svg':timeline(),
+  'journey.svg':timeline(),'journey-mobile.svg':timeline(true),
   'signature.svg':svg(112,80,'Folded Muath Alsulami signature',shift(3,2,.265,mark())),
 };
 for(const [name,content] of Object.entries(output)){

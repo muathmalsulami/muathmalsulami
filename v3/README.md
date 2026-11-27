@@ -3,9 +3,11 @@
 <span lang="ar" dir="rtl">معاذ السلمي</span> · Makkah, Saudi Arabia
 
 **Software development · AI integration · Observability**<br>
-I build web interfaces and Flask APIs that connect apps to models, then use metrics and logs to understand how services behave.
+I build web interfaces and Flask APIs that connect apps to models, and use metrics and logs to understand service behavior.
 
 [**Selected work**](#selected-work) · [Capabilities](#engineering-capabilities) · [Education and experience](#education-and-experience) · [Portfolio](https://muathmalsulami.github.io/)
+
+Umm Al-Qura University · 2026 · **Second Class Honors**
 
 <picture>
   <source media="(max-width: 600px) and (prefers-reduced-motion: no-preference)" srcset="art/hero-mobile.svg">
@@ -54,7 +56,10 @@ Built an Arabic and English site with HTML, CSS and JavaScript, using Git and Gi
 
 ## Education and experience
 
-![Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026](art/journey.svg)
+<picture>
+  <source media="(max-width: 600px)" srcset="art/journey-mobile.svg">
+  <img src="art/journey.svg" alt="Timeline from the 2025 NCM co-op through university graduation and Pathy training in 2026">
+</picture>
 
 **2025 · National Center for Meteorology** · IT cooperative training in monitoring and logging, Jeddah.<br>
 **2026 · Umm Al-Qura University** · B.Sc. Computer Science & Artificial Intelligence · **3.54/4.00, Second Class Honors**.<br>

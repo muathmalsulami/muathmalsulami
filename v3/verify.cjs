@@ -7,7 +7,7 @@ const readme=fs.readFileSync(path.join(__dirname,'README.md'),'utf8');
 assert.match(readme,/^# Muath Alsulami\b/);
 assert.match(readme,/<span lang="ar" dir="rtl">معاذ السلمي<\/span>/);
 assert.match(readme,/3\.54\/4\.00/);
-assert.equal((readme.match(/<img\b[^>]*alt="[^"]+"/g)||[]).length,4);
+assert.equal((readme.match(/<img\b[^>]*alt="[^"]+"/g)||[]).length,5);
 assert.match(readme,/hero-mobile-still\.svg/);
 const headings=new Set([...readme.matchAll(/^#+ (.+)$/gm)].map(([,h])=>h.trim().toLowerCase().replaceAll(' ','-')));
 for (const [,anchor] of readme.matchAll(/\]\(#([^)]+)\)/g)) assert(headings.has(anchor),anchor);

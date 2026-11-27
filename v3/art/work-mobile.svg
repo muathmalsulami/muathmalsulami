@@ -18,15 +18,15 @@
     <circle cx="58" cy="80" r="2.4" class="coral"/><circle cx="66" cy="80" r="2.4" class="amber"/><circle cx="74" cy="80" r="2.4" class="iris"/>
     <path d="M 61 153 L 84 145 L 107 148 L 126 128 L 144 134 L 170 114 L 191 107" fill="none" class="s-iris" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
     <circle cx="324" cy="130" r="6" class="iris"/><circle cx="236" cy="174" r="6" class="coral"/>
-    <text x="24" y="40" font-size="29" font-weight="600" class="ink serif">Numoo</text>
-    <text x="45" y="208" font-size="11" font-weight="600" class="muted mono">APP</text><text x="202" y="208" font-size="11" font-weight="600" class="muted mono">FLASK API</text><text x="313" y="208" font-size="11" font-weight="600" class="muted mono">TEAM MODEL</text>
+    <text x="24" y="40" transform="translate(24 40) scale(0.8020 1.2468) translate(-24 -40)" font-size="29" font-weight="600" class="ink serif">Numoo</text>
+    <text x="45" y="208" transform="translate(45 208) scale(0.8020 1.2468) translate(-45 -208)" font-size="11" font-weight="600" class="muted mono">APP</text><text x="202" y="208" transform="translate(202 208) scale(0.8020 1.2468) translate(-202 -208)" font-size="11" font-weight="600" class="muted mono">FLASK API</text><text x="313" y="208" transform="translate(313 208) scale(0.8020 1.2468) translate(-313 -208)" font-size="11" font-weight="600" class="muted mono">TEAM MODEL</text>
   </g><g transform="translate(0 224) scale(1)"><g transform="scale(1.3333333333333333 0.8076923076923077)"><rect x="0" y="0" width="450" height="260" rx="0" class="surface"/>
     <path d="M 0 165 L 450 51 V 260 H 0 Z" fill="url(#field)"/><path d="M 109 107 L 377 51 L 429 92 L 163 150 Z" class="surface s-rule" stroke-width=".8"/><path d="M 109 125 L 377 69 L 429 110 L 163 168 Z" class="tone s-rule" stroke-width=".8"/><path d="M 109 143 L 377 87 L 429 128 L 163 186 Z" class="surface s-rule" stroke-width=".8"/><path d="M 109 161 L 377 105 L 429 146 L 163 204 Z" class="tone s-rule" stroke-width=".8"/>
     <path d="M 35 193 H 87 L 133 165 H 162 L 202 148 L 242 155 L 276 116 L 300 118 L 337 104 L 362 110 L 392 85" fill="none" class="s-iris" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 43 219 H 123 M 146 219 H 227 M 248 219 H 409" fill="none" class="s-rule" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
     <circle cx="87" cy="193" r="5" class="coral"/><circle cx="276" cy="116" r="5" class="amber"/><circle cx="392" cy="85" r="5" class="iris"/>
-    <text x="24" y="40" font-size="29" font-weight="600" class="ink serif">NCM</text>
-    <text x="43" y="239" font-size="11" font-weight="600" class="muted mono">HOST</text><text x="146" y="239" font-size="11" font-weight="600" class="muted mono">METRICS</text><text x="248" y="239" font-size="11" font-weight="600" class="muted mono">LOGS</text></g></g><g transform="translate(0 435) scale(1)"><g transform="scale(1.3333333333333333 0.8269230769230769)"><rect x="0" y="0" width="450" height="260" rx="0" class="paper"/>
+    <text x="24" y="40" transform="translate(24 40) scale(0.7783 1.2848) translate(-24 -40)" font-size="29" font-weight="600" class="ink serif">NCM</text>
+    <text x="43" y="239" transform="translate(43 239) scale(0.7783 1.2848) translate(-43 -239)" font-size="11" font-weight="600" class="muted mono">HOST</text><text x="146" y="239" transform="translate(146 239) scale(0.7783 1.2848) translate(-146 -239)" font-size="11" font-weight="600" class="muted mono">METRICS</text><text x="248" y="239" transform="translate(248 239) scale(0.7783 1.2848) translate(-248 -239)" font-size="11" font-weight="600" class="muted mono">LOGS</text></g></g><g transform="translate(0 435) scale(1)"><g transform="scale(1.3333333333333333 0.8269230769230769)"><rect x="0" y="0" width="450" height="260" rx="0" class="paper"/>
     <path d="M 0 179 L 450 57 V 260 H 0 Z" fill="url(#field)"/>
     <path d="M 206 0 H 450 V 260 H 303 Z" fill="url(#hatch)" opacity=".28"/>
     <g transform="translate(56 78) scale(1)">
@@ -34,14 +34,14 @@
     <path d="M 1 27 H 138 V 73 H 1 Z" fill="url(#fold)"/>
     <path d="M 13 14 H 31 M 97 14 H 126" fill="none" class="s-rule" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 15 88 H 86 M 15 100 H 67 M 15 116 H 87" fill="none" class="s-muted" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="15" y="57" font-size="20" font-weight="600" class="surface">EN</text></g><g transform="translate(252 47) scale(1)">
+    <text x="15" y="57" transform="translate(15 57) scale(0.7875 1.2698) translate(-15 -57)" font-size="20" font-weight="600" class="surface">EN</text></g><g transform="translate(252 47) scale(1)">
     <rect x="0" y="9" width="139" height="132" rx="7" class="ink"/><rect x="0" y="0" width="139" height="132" rx="7" class="surface s-rule"/>
     <path d="M 1 27 H 138 V 73 H 1 Z" fill="url(#fold)"/>
     <path d="M 13 14 H 31 M 97 14 H 126" fill="none" class="s-rule" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 54 88 H 125 M 74 100 H 125 M 53 116 H 125" fill="none" class="s-muted" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="99" y="57" font-size="20" font-weight="600" class="surface">ع</text></g>
+    <text x="99" y="57" transform="translate(99 57) scale(0.7875 1.2698) translate(-99 -57)" font-size="20" font-weight="600" class="surface">ع</text></g>
     <path d="M 194 147 C 216 147 221 114 251 111" fill="none" class="s-coral" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
     <circle cx="221" cy="129" r="4.5" class="amber"/>
-    <text x="24" y="38" font-size="29" font-weight="600" class="ink serif">Bilingual portfolio</text>
-    <text x="57" y="236" font-size="11" font-weight="600" class="muted mono">ENGLISH</text><text x="251" y="236" font-size="11" font-weight="600" class="muted mono">ARABIC</text></g></g></g>
+    <text x="24" y="38" transform="translate(24 38) scale(0.7875 1.2698) translate(-24 -38)" font-size="29" font-weight="600" class="ink serif">Bilingual portfolio</text>
+    <text x="57" y="236" transform="translate(57 236) scale(0.7875 1.2698) translate(-57 -236)" font-size="11" font-weight="600" class="muted mono">ENGLISH</text><text x="251" y="236" transform="translate(251 236) scale(0.7875 1.2698) translate(-251 -236)" font-size="11" font-weight="600" class="muted mono">ARABIC</text></g></g></g>
 </svg>
