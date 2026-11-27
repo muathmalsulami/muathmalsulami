@@ -1,0 +1,3324 @@
+{
+  "creative-engineer-320-dark": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/hero-still.svg",
+        "alt": "A split ribbon assembles into an open M beside a line that draws toward the signature.",
+        "loaded": true,
+        "width": 254,
+        "height": 95,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 254,
+        "height": 42,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/signature.svg",
+        "alt": "Open M formed by two folded ribbons",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Selected work",
+        "valid": true
+      },
+      {
+        "href": "#capabilities",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "Journey",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#capabilities",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#build",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#integrate",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#observe",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#ship",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 320,
+    "scroll": 320,
+    "articleWidth": 254,
+    "articleScroll": 254,
+    "theme": "dark",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "creative-engineer-320-light": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/hero-still.svg",
+        "alt": "A split ribbon assembles into an open M beside a line that draws toward the signature.",
+        "loaded": true,
+        "width": 254,
+        "height": 95,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 254,
+        "height": 42,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/signature.svg",
+        "alt": "Open M formed by two folded ribbons",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Selected work",
+        "valid": true
+      },
+      {
+        "href": "#capabilities",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "Journey",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#capabilities",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#build",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#integrate",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#observe",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#ship",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 320,
+    "scroll": 320,
+    "articleWidth": 254,
+    "articleScroll": 254,
+    "theme": "light",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "creative-engineer-390-light": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/hero-still.svg",
+        "alt": "A split ribbon assembles into an open M beside a line that draws toward the signature.",
+        "loaded": true,
+        "width": 324,
+        "height": 122,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 324,
+        "height": 53,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/signature.svg",
+        "alt": "Open M formed by two folded ribbons",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Selected work",
+        "valid": true
+      },
+      {
+        "href": "#capabilities",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "Journey",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#capabilities",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#build",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#integrate",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#observe",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#ship",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 390,
+    "scroll": 390,
+    "articleWidth": 324,
+    "articleScroll": 324,
+    "theme": "light",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "creative-engineer-390-dark": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/hero-still.svg",
+        "alt": "A split ribbon assembles into an open M beside a line that draws toward the signature.",
+        "loaded": true,
+        "width": 324,
+        "height": 122,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 324,
+        "height": 53,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/signature.svg",
+        "alt": "Open M formed by two folded ribbons",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Selected work",
+        "valid": true
+      },
+      {
+        "href": "#capabilities",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "Journey",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#capabilities",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#build",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#integrate",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#observe",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#ship",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 390,
+    "scroll": 390,
+    "articleWidth": 324,
+    "articleScroll": 324,
+    "theme": "dark",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "creative-engineer-390-dark-true": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/hero-still.svg",
+        "alt": "A split ribbon assembles into an open M beside a line that draws toward the signature.",
+        "loaded": false,
+        "width": 324,
+        "height": 48,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": false,
+        "width": 324,
+        "height": 48,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": false,
+        "width": 324,
+        "height": 48,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": false,
+        "width": 324,
+        "height": 48,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": false,
+        "width": 324,
+        "height": 48,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/signature.svg",
+        "alt": "Open M formed by two folded ribbons",
+        "loaded": false,
+        "width": 290,
+        "height": 24,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Selected work",
+        "valid": true
+      },
+      {
+        "href": "#capabilities",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "Journey",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#capabilities",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#build",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#integrate",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#observe",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#ship",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 390,
+    "scroll": 390,
+    "articleWidth": 324,
+    "articleScroll": 324,
+    "theme": "dark",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true
+  },
+  "engineering-signature-320-light": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/hero-still.svg",
+        "alt": "Three isometric modules seat in sequence, linking an interface, a model API and service signals.",
+        "loaded": true,
+        "width": 254,
+        "height": 95,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 254,
+        "height": 42,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/signature.svg",
+        "alt": "Stepped junction formed by three fitted planes",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#engineering-capabilities",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Selected work",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "Journey",
+        "valid": true
+      },
+      {
+        "href": "#engineering-capabilities",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 320,
+    "scroll": 320,
+    "articleWidth": 254,
+    "articleScroll": 254,
+    "theme": "light",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "creative-engineer-1440-light": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/hero-still.svg",
+        "alt": "A split ribbon assembles into an open M beside a line that draws toward the signature.",
+        "loaded": true,
+        "width": 800,
+        "height": 300,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 800,
+        "height": 132,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/signature.svg",
+        "alt": "Open M formed by two folded ribbons",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Selected work",
+        "valid": true
+      },
+      {
+        "href": "#capabilities",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "Journey",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#capabilities",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#build",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#integrate",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#observe",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#ship",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 1440,
+    "scroll": 1440,
+    "articleWidth": 1012,
+    "articleScroll": 1012,
+    "theme": "light",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "creative-engineer-1440-dark": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/hero-still.svg",
+        "alt": "A split ribbon assembles into an open M beside a line that draws toward the signature.",
+        "loaded": true,
+        "width": 800,
+        "height": 300,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 800,
+        "height": 132,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/creative-engineer/art/signature.svg",
+        "alt": "Open M formed by two folded ribbons",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Selected work",
+        "valid": true
+      },
+      {
+        "href": "#capabilities",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "Journey",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#capabilities",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#build",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#integrate",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#observe",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#ship",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 1440,
+    "scroll": 1440,
+    "articleWidth": 1012,
+    "articleScroll": 1012,
+    "theme": "dark",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "engineering-signature-320-dark": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/hero-still.svg",
+        "alt": "Three isometric modules seat in sequence, linking an interface, a model API and service signals.",
+        "loaded": true,
+        "width": 254,
+        "height": 95,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 254,
+        "height": 42,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/signature.svg",
+        "alt": "Stepped junction formed by three fitted planes",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#engineering-capabilities",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Selected work",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "Journey",
+        "valid": true
+      },
+      {
+        "href": "#engineering-capabilities",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 320,
+    "scroll": 320,
+    "articleWidth": 254,
+    "articleScroll": 254,
+    "theme": "dark",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "engineering-signature-390-dark": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/hero-still.svg",
+        "alt": "Three isometric modules seat in sequence, linking an interface, a model API and service signals.",
+        "loaded": true,
+        "width": 324,
+        "height": 122,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 324,
+        "height": 53,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/signature.svg",
+        "alt": "Stepped junction formed by three fitted planes",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#engineering-capabilities",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Selected work",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "Journey",
+        "valid": true
+      },
+      {
+        "href": "#engineering-capabilities",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 390,
+    "scroll": 390,
+    "articleWidth": 324,
+    "articleScroll": 324,
+    "theme": "dark",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "engineering-signature-390-light": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/hero-still.svg",
+        "alt": "Three isometric modules seat in sequence, linking an interface, a model API and service signals.",
+        "loaded": true,
+        "width": 324,
+        "height": 122,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 324,
+        "height": 53,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/signature.svg",
+        "alt": "Stepped junction formed by three fitted planes",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#engineering-capabilities",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Selected work",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "Journey",
+        "valid": true
+      },
+      {
+        "href": "#engineering-capabilities",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 390,
+    "scroll": 390,
+    "articleWidth": 324,
+    "articleScroll": 324,
+    "theme": "light",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "engineering-signature-1440-light": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/hero-still.svg",
+        "alt": "Three isometric modules seat in sequence, linking an interface, a model API and service signals.",
+        "loaded": true,
+        "width": 800,
+        "height": 300,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 800,
+        "height": 132,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/signature.svg",
+        "alt": "Stepped junction formed by three fitted planes",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#engineering-capabilities",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Selected work",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "Journey",
+        "valid": true
+      },
+      {
+        "href": "#engineering-capabilities",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 1440,
+    "scroll": 1440,
+    "articleWidth": 1012,
+    "articleScroll": 1012,
+    "theme": "light",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "engineering-signature-390-dark-true": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/hero-still.svg",
+        "alt": "Three isometric modules seat in sequence, linking an interface, a model API and service signals.",
+        "loaded": false,
+        "width": 324,
+        "height": 72,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": false,
+        "width": 324,
+        "height": 48,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": false,
+        "width": 324,
+        "height": 48,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": false,
+        "width": 324,
+        "height": 48,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": false,
+        "width": 324,
+        "height": 48,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/signature.svg",
+        "alt": "Stepped junction formed by three fitted planes",
+        "loaded": false,
+        "width": 324,
+        "height": 48,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#engineering-capabilities",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Selected work",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "Journey",
+        "valid": true
+      },
+      {
+        "href": "#engineering-capabilities",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 390,
+    "scroll": 390,
+    "articleWidth": 324,
+    "articleScroll": 324,
+    "theme": "dark",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true
+  },
+  "recruiter-first-320-dark": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/hero-still.svg",
+        "alt": "Build, Integrate and Observe register in sequence beside an open bracket signature.",
+        "loaded": true,
+        "width": 254,
+        "height": 95,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 254,
+        "height": 42,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/signature.svg",
+        "alt": "Offset open bracket with a diamond terminal",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "Umm Al-Qura University, 2026 · Second Class Honors",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Project evidence",
+        "valid": true
+      },
+      {
+        "href": "#capabilities-at-a-glance",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "Education",
+        "valid": true
+      },
+      {
+        "href": "#capabilities-at-a-glance",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 320,
+    "scroll": 320,
+    "articleWidth": 254,
+    "articleScroll": 254,
+    "theme": "dark",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "recruiter-first-320-light": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/hero-still.svg",
+        "alt": "Build, Integrate and Observe register in sequence beside an open bracket signature.",
+        "loaded": true,
+        "width": 254,
+        "height": 95,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 254,
+        "height": 42,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 254,
+        "height": 37,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/signature.svg",
+        "alt": "Offset open bracket with a diamond terminal",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "Umm Al-Qura University, 2026 · Second Class Honors",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Project evidence",
+        "valid": true
+      },
+      {
+        "href": "#capabilities-at-a-glance",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "Education",
+        "valid": true
+      },
+      {
+        "href": "#capabilities-at-a-glance",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 320,
+    "scroll": 320,
+    "articleWidth": 254,
+    "articleScroll": 254,
+    "theme": "light",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "engineering-signature-1440-dark": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/hero-still.svg",
+        "alt": "Three isometric modules seat in sequence, linking an interface, a model API and service signals.",
+        "loaded": true,
+        "width": 800,
+        "height": 300,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 800,
+        "height": 132,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/engineering-signature/art/signature.svg",
+        "alt": "Stepped junction formed by three fitted planes",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#engineering-capabilities",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Selected work",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "Journey",
+        "valid": true
+      },
+      {
+        "href": "#engineering-capabilities",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#journey",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 1440,
+    "scroll": 1440,
+    "articleWidth": 1012,
+    "articleScroll": 1012,
+    "theme": "dark",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "recruiter-first-390-dark": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/hero-still.svg",
+        "alt": "Build, Integrate and Observe register in sequence beside an open bracket signature.",
+        "loaded": true,
+        "width": 324,
+        "height": 122,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 324,
+        "height": 53,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/signature.svg",
+        "alt": "Offset open bracket with a diamond terminal",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "Umm Al-Qura University, 2026 · Second Class Honors",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Project evidence",
+        "valid": true
+      },
+      {
+        "href": "#capabilities-at-a-glance",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "Education",
+        "valid": true
+      },
+      {
+        "href": "#capabilities-at-a-glance",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 390,
+    "scroll": 390,
+    "articleWidth": 324,
+    "articleScroll": 324,
+    "theme": "dark",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "recruiter-first-1440-dark": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/hero-still.svg",
+        "alt": "Build, Integrate and Observe register in sequence beside an open bracket signature.",
+        "loaded": true,
+        "width": 800,
+        "height": 300,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 800,
+        "height": 132,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/signature.svg",
+        "alt": "Offset open bracket with a diamond terminal",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "Umm Al-Qura University, 2026 · Second Class Honors",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Project evidence",
+        "valid": true
+      },
+      {
+        "href": "#capabilities-at-a-glance",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "Education",
+        "valid": true
+      },
+      {
+        "href": "#capabilities-at-a-glance",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 1440,
+    "scroll": 1440,
+    "articleWidth": 1012,
+    "articleScroll": 1012,
+    "theme": "dark",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "recruiter-first-390-light": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/hero-still.svg",
+        "alt": "Build, Integrate and Observe register in sequence beside an open bracket signature.",
+        "loaded": true,
+        "width": 324,
+        "height": 122,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 324,
+        "height": 53,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 324,
+        "height": 47,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/signature.svg",
+        "alt": "Offset open bracket with a diamond terminal",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "Umm Al-Qura University, 2026 · Second Class Honors",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Project evidence",
+        "valid": true
+      },
+      {
+        "href": "#capabilities-at-a-glance",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "Education",
+        "valid": true
+      },
+      {
+        "href": "#capabilities-at-a-glance",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 390,
+    "scroll": 390,
+    "articleWidth": 324,
+    "articleScroll": 324,
+    "theme": "light",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "recruiter-first-1440-light": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/hero-still.svg",
+        "alt": "Build, Integrate and Observe register in sequence beside an open bracket signature.",
+        "loaded": true,
+        "width": 800,
+        "height": 300,
+        "naturalWidth": 800,
+        "naturalHeight": 300
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": true,
+        "width": 800,
+        "height": 132,
+        "naturalWidth": 800,
+        "naturalHeight": 132
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": true,
+        "width": 800,
+        "height": 116,
+        "naturalWidth": 800,
+        "naturalHeight": 116
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/signature.svg",
+        "alt": "Offset open bracket with a diamond terminal",
+        "loaded": true,
+        "width": 56,
+        "height": 56,
+        "naturalWidth": 124,
+        "naturalHeight": 124
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "Umm Al-Qura University, 2026 · Second Class Honors",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Project evidence",
+        "valid": true
+      },
+      {
+        "href": "#capabilities-at-a-glance",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "Education",
+        "valid": true
+      },
+      {
+        "href": "#capabilities-at-a-glance",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 1440,
+    "scroll": 1440,
+    "articleWidth": 1012,
+    "articleScroll": 1012,
+    "theme": "light",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true,
+    "axe": []
+  },
+  "recruiter-first-390-dark-true": {
+    "images": [
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/hero-still.svg",
+        "alt": "Build, Integrate and Observe register in sequence beside an open bracket signature.",
+        "loaded": false,
+        "width": 324,
+        "height": 48,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/capabilities.svg",
+        "alt": "Four illustrated engineering functions: Build, Integrate, Observe and Ship",
+        "loaded": false,
+        "width": 324,
+        "height": 48,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/numoo.svg",
+        "alt": "Conceptual diagram of an application interface connected to an API",
+        "loaded": false,
+        "width": 324,
+        "height": 48,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/ncm.svg",
+        "alt": "Conceptual illustration of metric and log signals, with no operational data",
+        "loaded": false,
+        "width": 324,
+        "height": 48,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/portfolio.svg",
+        "alt": "Conceptual illustration of paired Arabic and English web layouts",
+        "loaded": false,
+        "width": 324,
+        "height": 48,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://github.com/muathmalsulami/muathmalsulami/raw/da97cf8e27b4ba98ef21a67b70bb73ffe1b80014/prototypes/recruiter-first/art/signature.svg",
+        "alt": "Offset open bracket with a diamond terminal",
+        "loaded": false,
+        "width": 324,
+        "height": 48,
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "anchors": [
+      {
+        "href": "#muath-alsulami",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "Umm Al-Qura University, 2026 · Second Class Honors",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "Project evidence",
+        "valid": true
+      },
+      {
+        "href": "#capabilities-at-a-glance",
+        "label": "Capabilities",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "Education",
+        "valid": true
+      },
+      {
+        "href": "#capabilities-at-a-glance",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "bilingual portfolio",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "Numoo",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "NCM",
+        "valid": true
+      },
+      {
+        "href": "#selected-work",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#numoo",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#national-center-for-meteorology",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#bilingual-portfolio",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#education-and-training",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#current-interests",
+        "label": "",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "label": "",
+        "valid": true
+      }
+    ],
+    "width": 390,
+    "scroll": 390,
+    "articleWidth": 324,
+    "articleScroll": 324,
+    "theme": "dark",
+    "arabic": "معاذ السلمي",
+    "degree": true,
+    "projects": true,
+    "keyboardNavigation": true
+  }
+}

@@ -3,7 +3,7 @@ name: Profile integrity
 on:
   pull_request:
   push:
-    branches: [main]
+    branches: [main, design/v2-explorations]
 
 permissions:
   contents: read
@@ -17,3 +17,4 @@ jobs:
         with:
           node-version: '24'
       - run: node verify-profile.cjs
+      - run: node prototypes/verify.cjs
