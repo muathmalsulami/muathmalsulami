@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="116" viewBox="0 0 800 116" role="img">
+  <title>Interface / REST API conceptual illustration</title>
+  <style>
+    .bg{fill:#E9EFFB} .s-bg{stroke:#E9EFFB} .ink{fill:#152453} .s-ink{stroke:#152453} .accent{fill:#2049BD} .s-accent{stroke:#2049BD} .second{fill:#006875} .s-second{stroke:#006875} .highlight{fill:#ECD755} .s-highlight{stroke:#ECD755} .soft{fill:#CFDDF8} .s-soft{stroke:#CFDDF8}
+    @media(prefers-color-scheme:dark){.bg{fill:#101C3C} .s-bg{stroke:#101C3C} .ink{fill:#F3F5FF} .s-ink{stroke:#F3F5FF} .accent{fill:#8CABFF} .s-accent{stroke:#8CABFF} .second{fill:#71DDD7} .s-second{stroke:#71DDD7} .highlight{fill:#F2DC61} .s-highlight{stroke:#F2DC61} .soft{fill:#233865} .s-soft{stroke:#233865}}
+    text{font-family:Arial,Helvetica,sans-serif;letter-spacing:-.025em}
+
+  </style>
+  <rect class="bg" width="800" height="116" rx="14"/><path class="soft" d="M 4 103 L 100 5 H 261 L 181 115 H 9 Z"/><g transform="translate(56 14) scale(.94)" class="s-ink" fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="8" width="86" height="60" rx="8"/><path d="M 0 24 H 86 M 17 45 H 37 M 50 45 H 67 M 43 68 V 85 H 115"/><circle cx="122" cy="85" r="6"/></g>
+      <path class="s-second" d="M 206 92 H 644 L 682 59 H 766" fill="none" stroke-width="2"/>
+      <text x="270" y="61" font-size="43" font-weight="700" class="ink">Interface / REST API</text><g transform="translate(710 24) scale(.63)"><path class="second" d="M 6 41 L 49 16 L 92 41 L 49 66 Z"/><path class="accent" d="M 6 47 L 44 70 V 99 L 6 76 Z"/><path class="ink" d="M 54 70 L 92 47 V 76 L 54 99 Z"/><path class="highlight" d="M 49 0 L 68 11 L 49 22 L 30 11 Z"/></g>
+</svg>

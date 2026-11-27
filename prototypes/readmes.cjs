@@ -7,13 +7,13 @@ const hero = (alt) => `<picture>
   <img src="art/hero-still.svg" alt="${alt}">
 </picture>`;
 const img = (name,alt) => `![${alt}](art/${name}.svg)`;
-const journey = `**2026 · Umm Al-Qura University**  
+const journey = `**2026 · Umm Al-Qura University**<br>
 B.Sc. Computer Science & Artificial Intelligence · GPA 3.54/4.00 · Second Class Honors.
 
-**2025 · National Center for Meteorology, Jeddah**  
+**2025 · National Center for Meteorology, Jeddah**<br>
 Completed IT co-op in monitoring and logging. [Training case study](https://muathmalsulami.github.io/?case=ncm)
 
-**2026 · Pathy**  
+**2026 · Pathy**<br>
 Software Project Management (Git & GitHub). [Verify the certificate](https://learn.pathy.sa/certificate/PTHYHCR6WZ3G5Q93)`;
 const contact = '[Portfolio](https://muathmalsulami.github.io/) · [LinkedIn](https://www.linkedin.com/in/muath-m-alsulami/) · [Email](mailto:muath.m.alsulami@gmail.com)';
 const sections = {
@@ -71,7 +71,7 @@ ${p.art}
 
 > ${p.contribution}
 
-**Stack** · ${p.tools}  
+**Stack** · ${p.tools}<br>
 **Evidence** · ${p.link}`).join('\n\n');
 const recruitingProjects = Object.values(sections).map(p => `### ${p.title}
 
@@ -106,7 +106,7 @@ ${capabilities}
 
 ${Object.entries(phases).map(([k,[action,tools,proof]])=>`### ${k}
 
-${action}  
+${action}<br>
 **${tools}** · ${proof}`).join('\n\n')}
 
 ## Journey
@@ -132,7 +132,7 @@ ${hero('Three isometric modules seat in sequence, linking an interface, a model 
 
 ${capabilities}
 
-${Object.entries(phases).map(([k,[action,tools,proof]])=>`**${k}** — ${action}  
+${Object.entries(phases).map(([k,[action,tools,proof]])=>`**${k}** — ${action}<br>
 ${tools} · ${proof}`).join('\n\n')}
 
 ## Selected work

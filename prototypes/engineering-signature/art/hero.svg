@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img">
+  <title>Engineering Signature. Three fitted planes form a stepped junction with a luminous core.</title>
+  <style>
+    .bg{fill:#E9EFFB} .s-bg{stroke:#E9EFFB} .ink{fill:#152453} .s-ink{stroke:#152453} .accent{fill:#2049BD} .s-accent{stroke:#2049BD} .second{fill:#006875} .s-second{stroke:#006875} .highlight{fill:#ECD755} .s-highlight{stroke:#ECD755} .soft{fill:#CFDDF8} .s-soft{stroke:#CFDDF8}
+    @media(prefers-color-scheme:dark){.bg{fill:#101C3C} .s-bg{stroke:#101C3C} .ink{fill:#F3F5FF} .s-ink{stroke:#F3F5FF} .accent{fill:#8CABFF} .s-accent{stroke:#8CABFF} .second{fill:#71DDD7} .s-second{stroke:#71DDD7} .highlight{fill:#F2DC61} .s-highlight{stroke:#F2DC61} .soft{fill:#233865} .s-soft{stroke:#233865}}
+    text{font-family:Arial,Helvetica,sans-serif;letter-spacing:-.025em}
+    @media(prefers-reduced-motion:no-preference){.module{animation:seat .9s cubic-bezier(.2,.7,.25,1) both}
+      .layer-1{animation-delay:.65s}.layer-2{animation-delay:1.3s}
+      .line{stroke-dasharray:100;animation:draw 1.55s 1.8s both}
+      .pulse{stroke-dasharray:9 100;opacity:0;animation:pulse 1.45s 3.35s both}
+      @keyframes seat{from{opacity:.2;transform:translateY(-22px)}to{opacity:1;transform:translateY(0)}}
+      @keyframes draw{from{stroke-dashoffset:100}to{stroke-dashoffset:0}}
+      @keyframes pulse{0%{opacity:0;stroke-dashoffset:109}12%{opacity:1}82%{opacity:1}100%{opacity:0;stroke-dashoffset:0}}}
+  </style>
+  <rect class="bg" width="800" height="300" rx="20"/>
+      <path class="soft" d="M 0 195 L 800 70 V 268 Q 800 300 777 300 H 20 Q 0 300 0 277 Z"/>
+      <path class="s-accent line" d="M 140 171 H 264 L 300 129 H 524 L 560 171 H 660" pathLength="100" stroke-width="5" stroke-linecap="round" fill="none"/>
+      <g transform="translate(140 133)">
+        <g class="module layer-0">
+          <path class="second" d="M -54 11 L 0 41 L 54 11 V 39 L 0 69 L -54 39 Z"/>
+          <path class="bg s-accent" stroke-width="3" d="M -53 11 L 0 -19 L 55 11 L 0 41 Z"/>
+          <path class="highlight" d="M -20 12 L 0 1 L 20 12 L 0 23 Z"/>
+        </g>
+      </g><text x="75" y="261" font-size="32" font-weight="700" class="ink">Interface</text><g transform="translate(400 133)">
+        <g class="module layer-1">
+          <path class="second" d="M -54 11 L 0 41 L 54 11 V 39 L 0 69 L -54 39 Z"/>
+          <path class="bg s-second" stroke-width="3" d="M -54 11 L 0 -19 L 54 11 L 0 41 Z"/>
+          <path class="highlight" d="M -20 12 L 0 1 L 20 12 L 0 23 Z"/>
+        </g>
+      </g><text x="327" y="261" font-size="32" font-weight="700" class="ink">Model API</text><g transform="translate(660 133)">
+        <g class="module layer-2">
+          <path class="second" d="M -54 11 L 0 41 L 54 11 V 39 L 0 69 L -54 39 Z"/>
+          <path class="bg s-accent" stroke-width="3" d="M -54 11 L 0 -19 L 54 11 L 0 41 Z"/>
+          <path class="highlight" d="M -20 12 L 0 1 L 20 12 L 0 23 Z"/>
+        </g>
+      </g><text x="608" y="261" font-size="32" font-weight="700" class="ink">Signals</text>
+      <text x="33" y="53" font-size="45" font-weight="700" class="ink">Application systems</text>
+      <g transform="translate(703 17) scale(.58)"><path class="second" d="M 6 41 L 49 16 L 92 41 L 49 66 Z"/><path class="accent" d="M 6 47 L 44 70 V 99 L 6 76 Z"/><path class="ink" d="M 54 70 L 92 47 V 76 L 54 99 Z"/><path class="highlight" d="M 49 0 L 68 11 L 49 22 L 30 11 Z"/></g>
+      <path class="pulse s-highlight" d="M 140 171 H 264 L 300 129 H 524 L 560 171 H 660" pathLength="100" stroke-width="7" stroke-linecap="round" fill="none"/>
+
+</svg>

@@ -1,6 +1,6 @@
 const fs = require('node:fs');
 const path = require('node:path');
-const root = path.join(__dirname, '..');
+const root = __dirname;
 const check = process.argv.includes('--check');
 
 const directions = {
@@ -185,7 +185,8 @@ for (const [key,direction] of Object.entries(directions)) {
       `<rect class="bg" width="124" height="124" rx="19"/><g transform="translate(13 12)">${mark[key]}</g>`),
   };
   projects.forEach((p,i)=>artwork[`${p.key}.svg`]=project(key,direction,p,i));
-  for (const [name,data] of Object.entries(artwork)) {
+  for (const [name,source] of Object.entries(artwork)) {
+    const data = source.replace(/[ \t]+$/gm, "");
     const dest=path.join(folder,name);
     if(check) {
       if(fs.readFileSync(dest,'utf8').replaceAll('\r\n','\n')!==data) throw Error(`Regenerate ${dest}`);

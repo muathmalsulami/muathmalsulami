@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="116" viewBox="0 0 800 116" role="img">
+  <title>Arabic / English conceptual illustration</title>
+  <style>
+    .bg{fill:#F8E9DF} .s-bg{stroke:#F8E9DF} .ink{fill:#24162A} .s-ink{stroke:#24162A} .accent{fill:#B83C1F} .s-accent{stroke:#B83C1F} .second{fill:#634393} .s-second{stroke:#634393} .highlight{fill:#F6A06B} .s-highlight{stroke:#F6A06B} .soft{fill:#F1D2C8} .s-soft{stroke:#F1D2C8}
+    @media(prefers-color-scheme:dark){.bg{fill:#2B1B34} .s-bg{stroke:#2B1B34} .ink{fill:#FFF0E1} .s-ink{stroke:#FFF0E1} .accent{fill:#FF9F74} .s-accent{stroke:#FF9F74} .second{fill:#C2A1FA} .s-second{stroke:#C2A1FA} .highlight{fill:#E06345} .s-highlight{stroke:#E06345} .soft{fill:#4A3155} .s-soft{stroke:#4A3155}}
+    text{font-family:Arial,Helvetica,sans-serif;letter-spacing:-.025em}
+
+  </style>
+  <rect class="bg" width="800" height="116" rx="14"/><path class="highlight" d="M 0 0 H 190 Q 243 58 190 116 H 0 Z"/><g transform="translate(56 14) scale(.94)" class="s-ink" fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M 12 72 V 14 H 59 V 72 Z M 73 72 V 14 H 120 V 72 Z M 23 32 H 46 M 23 44 H 40 M 87 32 H 109 M 92 44 H 109 M 41 86 H 90"/></g><text x="267" y="72" font-size="45" font-weight="700" class="ink">Arabic / English</text><g transform="translate(725 34) scale(.43)"><path class="accent" d="M 0 71 L 0 3 Q 0 0 4 0 H 22 L 48 31 L 75 0 H 95 Q 99 0 99 4 V 71 H 78 V 30 L 49 62 L 21 30 V 71 Z"/><path class="second" d="M 27 64 L 49 83 L 72 64 V 79 L 49 99 L 27 79 Z"/></g>
+</svg>

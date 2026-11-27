@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="124" viewBox="0 0 124 124" role="img">
+  <title>An offset open bracket with a diamond-shaped terminal.</title>
+  <style>
+    .bg{fill:#F7EEE9} .s-bg{stroke:#F7EEE9} .ink{fill:#27253D} .s-ink{stroke:#27253D} .accent{fill:#9B2341} .s-accent{stroke:#9B2341} .second{fill:#304A80} .s-second{stroke:#304A80} .highlight{fill:#EFB6B3} .s-highlight{stroke:#EFB6B3} .soft{fill:#EACED0} .s-soft{stroke:#EACED0}
+    @media(prefers-color-scheme:dark){.bg{fill:#251E31} .s-bg{stroke:#251E31} .ink{fill:#FFF1EB} .s-ink{stroke:#FFF1EB} .accent{fill:#FF9AB0} .s-accent{stroke:#FF9AB0} .second{fill:#B0C4FF} .s-second{stroke:#B0C4FF} .highlight{fill:#96556A} .s-highlight{stroke:#96556A} .soft{fill:#423247} .s-soft{stroke:#423247}}
+    text{font-family:Arial,Helvetica,sans-serif;letter-spacing:-.025em}
+
+  </style>
+  <rect class="bg" width="124" height="124" rx="19"/><g transform="translate(13 12)"><path class="accent" d="M 0 0 H 64 V 16 H 16 V 73 H 49 V 89 H 0 Z"/><path class="second" d="M 41 25 H 86 V 49 H 70 V 41 H 41 Z"/><path class="ink" d="M 78 55 L 97 74 L 78 93 L 59 74 Z"/></g>
+</svg>

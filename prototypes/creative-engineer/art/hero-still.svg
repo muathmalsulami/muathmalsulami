@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img">
+  <title>Creative Engineer. A split ribbon folding into an open M.</title>
+  <style>
+    .bg{fill:#F8E9DF} .s-bg{stroke:#F8E9DF} .ink{fill:#24162A} .s-ink{stroke:#24162A} .accent{fill:#B83C1F} .s-accent{stroke:#B83C1F} .second{fill:#634393} .s-second{stroke:#634393} .highlight{fill:#F6A06B} .s-highlight{stroke:#F6A06B} .soft{fill:#F1D2C8} .s-soft{stroke:#F1D2C8}
+    @media(prefers-color-scheme:dark){.bg{fill:#2B1B34} .s-bg{stroke:#2B1B34} .ink{fill:#FFF0E1} .s-ink{stroke:#FFF0E1} .accent{fill:#FF9F74} .s-accent{stroke:#FF9F74} .second{fill:#C2A1FA} .s-second{stroke:#C2A1FA} .highlight{fill:#E06345} .s-highlight{stroke:#E06345} .soft{fill:#4A3155} .s-soft{stroke:#4A3155}}
+    text{font-family:Arial,Helvetica,sans-serif;letter-spacing:-.025em}
+
+  </style>
+  <rect class="bg" width="800" height="300" rx="20"/>
+    <path class="soft" d="M 419 300 V 0 H 728 Q 800 0 800 73 V 280 Q 800 300 780 300 Z"/>
+    <path class="second" d="M 802 13 C 674 1 657 94 566 94 L 512 94 C 443 94 418 131 418 183 V 299 H 492 V 188 C 492 163 502 161 529 161 H 587 C 704 161 718 67 802 84 Z"/>
+    <path class="highlight" d="M 800 176 C 724 122 673 202 614 205 H 559 V 275 H 615 C 688 271 725 208 800 253 Z"/>
+    <g transform="translate(564 88) scale(1.57)"><g class="fold"><path class="accent" d="M 0 71 L 0 3 Q 0 0 4 0 H 22 L 48 31 L 75 0 H 95 Q 99 0 99 4 V 71 H 78 V 30 L 49 62 L 21 30 V 71 Z"/><path class="second" d="M 27 64 L 49 83 L 72 64 V 79 L 49 99 L 27 79 Z"/></g></g>
+    <g class="copy"><text x="42" y="107" font-size="81" font-weight="700" class="ink">Software</text><text x="42" y="191" font-size="95" font-weight="700" class="accent">in use.</text><text x="45" y="246" font-size="29" font-weight="600" class="second">Interfaces · APIs · systems</text></g>
+    <path class="drawing s-ink" d="M 429 268 L 494 203 Q 524 173 553 173 H 591 Q 624 173 649 148 L 682 115" fill="none" stroke-width="4" stroke-linecap="round" pathLength="100"/>
+
+</svg>
