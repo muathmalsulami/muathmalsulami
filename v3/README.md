@@ -5,7 +5,7 @@
 **Software development · AI integration · Observability**<br>
 I build web interfaces and Flask APIs that connect apps to models, and use metrics and logs to understand service behavior.
 
-[**Selected work**](#selected-work) · [Capabilities](#engineering-capabilities) · [Education and experience](#education-and-experience) · [Portfolio](https://muathmalsulami.github.io/)
+[**Selected work**](#selected-work) · [Capabilities](#engineering-capabilities) · [Education](#education-and-experience) · [Portfolio](https://muathmalsulami.github.io/)
 
 Umm Al-Qura University · 2026 · **Second Class Honors**
 

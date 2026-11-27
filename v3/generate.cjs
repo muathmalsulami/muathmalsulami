@@ -10,7 +10,7 @@ const themes = {
 };
 const fields = ['paper','ink','muted','tone','amber','coral','iris','rule','surface','rose'];
 const theme = values => fields.map((field,index)=>`.${field}{fill:${values[index]}}.s-${field}{stroke:${values[index]}}.stop-${field}{stop-color:${values[index]}}`).join('');
-const typography = 'text{font-family:Arial,Helvetica,sans-serif}.serif{font-family:Georgia,serif;letter-spacing:-.055em}.mono{font-family:Consolas,monospace;letter-spacing:.10em}';
+const typography = '.depth{fill:#36243e}@media(prefers-color-scheme:dark){.depth{fill:#130e1d}}text{font-family:Arial,Helvetica,sans-serif}.serif{font-family:Georgia,serif;letter-spacing:-.055em}.mono{font-family:Consolas,monospace;letter-spacing:.10em}';
 const txt = (x,y,words,size,classes='ink',weight=600) => `<text x="${x}" y="${y}" font-size="${size}" font-weight="${weight}" class="${classes}">${words.replaceAll('&','&amp;')}</text>`;
 const rect = (x,y,w,h,r,classes) => `<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="${r}" class="${classes}"/>`;
 const stroke = (d,classes,w=1) => `<path d="${d}" fill="none" class="${classes}" stroke-width="${w}" stroke-linecap="round" stroke-linejoin="round"/>`;
@@ -37,14 +37,14 @@ const facets = 'M 39 95 Q 39 54 84 41 L 154 19 L 141 69 L 106 81 Q 92 85 92 103 
 const assemblyRoute = 'M 26 223 C 80 214 96 172 133 159 L 170 146 Q 184 142 196 155 L 212 174 Q 225 187 240 181 L 326 150 Q 351 141 351 118 V 96 Q 351 79 338 70 L 291 55';
 function mark(animated=false) {
   return `<g class="upper">
-  <path d="${main}" class="ink" transform="translate(0 10)" opacity=".92"/>
+  <path d="${main}" class="depth" transform="translate(0 10)" opacity=".92"/>
   <path d="${main}" fill="url(#heat)"/>
   <path d="${facets}" fill="url(#hatch)" opacity=".42"/>
   ${stroke('M 48 95 Q 48 61 85 50 L 152 29 L 212 93 L 285 31 L 345 48 Q 376 60 376 89','s-surface',1.4)}
   ${stroke('M 104 78 L 143 65 L 212 139 L 290 69 M 332 137 Q 331 150 320 154 L 291 165','s-ink',1.1)}
   </g>
   <g class="lower">
-    <path d="${loop}" class="ink" transform="translate(0 9)" opacity=".93"/>
+    <path d="${loop}" class="depth" transform="translate(0 9)" opacity=".93"/>
     <path d="${loop}" fill="url(#fold)"/>
     ${stroke('M 132 168 L 178 152 L 214 193 L 271 174','s-surface',1.2)}
   </g>
@@ -69,21 +69,21 @@ const animation = `@media(prefers-reduced-motion:no-preference){
 }.travel{opacity:0}.draft{opacity:.43}`;
 
 function hero(small, animated) {
-  const w=small?600:920, h=small?390:322;
+  const w=small?600:920, h=small?355:322;
   const plate= `<rect width="${w}" height="${h}" rx="22" fill="url(#field)"/>
     <clipPath id="frame"><rect width="${w}" height="${h}" rx="22"/></clipPath>
     <g clip-path="url(#frame)">
-      <path class="paper" d="${small?'M 0 0 H 600 L 400 390 H 0 Z':'M 0 0 H 630 L 480 322 H 0 Z'}"/>
-      <path fill="url(#hatch)" opacity=".45" d="${small?'M 460 0 H 600 V 390 H 360 Z':'M 744 0 H 920 V 322 H 650 Z'}"/>
+      <path class="paper" d="${small?'M 0 0 H 600 L 400 355 H 0 Z':'M 0 0 H 630 L 480 322 H 0 Z'}"/>
+      <path fill="url(#hatch)" opacity=".45" d="${small?'M 460 0 H 600 V 355 H 360 Z':'M 744 0 H 920 V 322 H 650 Z'}"/>
     </g>`;
   const construction = `<g class="draft">
     <ellipse cx="199" cy="132" rx="204" ry="119" class="s-rule" fill="none"/>
     <ellipse cx="200" cy="132" rx="169" ry="85" class="s-rule" fill="none" stroke-dasharray="2 5"/>
     ${stroke('M -15 132 H 424 M 200 5 V 261 M 49 41 V 73 M 35 57 H 63 M 365 190 V 222 M 350 206 H 379','s-rule')}
     </g>`;
-  const visual = shift(small?88:414,small?50:25,small?1.08:1.13,construction+mark(animated));
+  const visual = shift(small?100:414,small?26:25,small?1.02:1.13,construction+mark(animated));
   const editorial = small
-    ? `${txt(34,344,'From interface to signal',42,'ink serif')}${stroke('M 38 364 H 561','s-rule')}`
+    ? `${txt(34,319,'From interface to signal',42,'ink serif')}${stroke('M 38 335 H 561','s-rule')}`
     : `${txt(46,79,'From interface',57,'ink serif')}${txt(46,139,'to signal.',68,'ink serif')}${stroke('M 50 170 H 321','s-rule')}
         ${txt(51,210,'APPLICATION',15,'muted mono')}${txt(51,236,'MODEL INTEGRATION',15,'muted mono')}${txt(51,262,'OBSERVABILITY',15,'muted mono')}`;
   return svg(w,h,'A folded personal signature connects an interface, model integration and observability signal.',plate+visual+editorial,animated?animation:'');
