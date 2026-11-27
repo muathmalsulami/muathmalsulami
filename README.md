@@ -1,61 +1,51 @@
-<img src="assets/atelier-signature.svg" alt="An abstract path connects ideas and systems through layered geometric forms." width="1200">
-
 # Muath Alsulami
 
-**Make it useful. Then make it better.**
+**Software development · AI integration · Observability**<br>
+<span lang="ar" dir="rtl">معاذ السلمي</span> · Makkah, Saudi Arabia
 
-**Computer Science & AI graduate · Software development · AI integration**
+I build application interfaces and the APIs that connect them to models and services. I use logs and metrics to understand what happens across those boundaries.
 
-I build applications that connect useful interfaces, software and intelligent features. I care about the details that make a system understandable, maintainable and ready to use.
+[**Selected work**](#selected-work) · [Portfolio](https://muathmalsulami.github.io/) · [LinkedIn](https://www.linkedin.com/in/muath-m-alsulami/) · [Email](mailto:muath.m.alsulami@gmail.com)
 
-[**Explore my portfolio ↗**](https://muathmalsulami.github.io/learn-git-with-pathy/) · [LinkedIn](https://www.linkedin.com/in/muath-m-alsulami/) · [Email](mailto:muath.m.alsulami@gmail.com)
+![A folded monogram beside a signal path through three layers, representing an interface, integration and a system signal.](assets/identity/interface-signature.svg)
 
 ## Selected work
 
-### 01 / Personal portfolio
+### Numoo
 
-A bilingual space for documenting my projects and experience. Built with **HTML, CSS and JavaScript**, with Git and GitHub supporting versioned changes, branches and review.
+**Completed university team project · Application and API integration**
 
-[![Screenshot of the published portfolio home page, showing its dark bilingual software and AI portfolio design](assets/portfolio-live.webp)](https://muathmalsulami.github.io/learn-git-with-pathy/)
+A stock-direction forecasting prototype needed a way to expose the team's model outputs in an application. I built application interfaces and the **Python and Flask REST API** that connected the application to the team's models. My role covered application development and model integration.
 
-[Visit the live site ↗](https://muathmalsulami.github.io/learn-git-with-pathy/) · [Read the source ↗](https://github.com/muathmalsulami/learn-git-with-pathy)
+[Read the Numoo case study](https://muathmalsulami.github.io/?case=numoo)
 
-### 02 / Numoo — application & AI integration
+### National Center for Meteorology
 
-![Illustration of an application interface, integration layer and model output; not a screenshot](assets/numoo-study.svg)
+**Completed IT co-op · Monitoring and logging**
 
-*Illustration: application → integration → model output; not a screenshot.*
+During my 2025 co-op in Jeddah, I worked on a training setup for inspecting service health, host metrics and logs. I used **Docker Compose, Node Exporter, Prometheus, Grafana and Loki**, including dashboards and PromQL queries.
 
-A university team project exploring stock-direction forecasting. I built application interfaces and the **Python/Flask API layer** that connected the team's models to the application; my contribution did not include training the models.
+[Read the NCM training case study](https://muathmalsulami.github.io/?case=ncm)
 
-**Evidence:** [Project notes in my portfolio ↗](https://muathmalsulami.github.io/learn-git-with-pathy/#work). No public source repository is claimed.
+### Personal portfolio
 
-### 03 / Monitoring & observability
+**Published personal project · Bilingual web development**
 
-![Illustration of connected monitoring, visualization and logging components; not operational data](assets/systems-study.svg)
+I built an Arabic and English site to give each project an evidence trail and put my contribution in context. The site uses **HTML, CSS and JavaScript** and has public source and GitHub workflow history.
 
-*Illustration: a conceptual monitoring workflow; no operational data.*
+[Browse the source and history](https://github.com/muathmalsulami/muathmalsulami.github.io)
 
-During my **2025 IT cooperative training** at the National Center for Meteorology in Jeddah, I worked on a training-environment monitoring and logging setup. I used **Docker Compose, Node Exporter, Prometheus, Grafana and Loki**, including monitoring dashboards and PromQL queries.
+## Engineering practice
 
-**Evidence:** [Training overview in my portfolio ↗](https://muathmalsulami.github.io/learn-git-with-pathy/#journey).
+- **Application integration** — Define the interface, return usable API responses, and trace how the application consumes them. Python, Flask and REST/JSON in Numoo.
+- **Observability** — Use metrics and logs to investigate behavior across services. PromQL, Grafana and Loki in the co-op training environment.
+- **Version control** — Keep changes reviewable through Git commits, branches and pull requests. [View a profile change reviewed in GitHub](https://github.com/muathmalsulami/muathmalsulami/pull/1).
 
-## How I build
+<details>
+<summary>Education and Git training</summary>
 
-I use Git and GitHub to keep work traceable through commits, branches and pull requests. I also use AI-assisted development tools as part of the workflow, with review and testing of the resulting changes; the portfolio repository discloses its use of OpenAI Codex.
+**B.Sc. Computer Science & Artificial Intelligence** — Umm Al-Qura University, 2026. GPA 3.54/4.00, Second Class Honors.
 
-- **Application:** Python · Flask · JavaScript · HTML · CSS · REST/JSON
-- **Systems:** Docker · Prometheus · Grafana · Loki
-- **Workflow:** Git · GitHub
+**Software Project Management (Git & GitHub)** — Pathy, November 2026. [Verify the certificate](https://learn.pathy.sa/certificate/PTHYHCR6WZ3G5Q93).
 
-## Education & learning
-
-**B.Sc. Computer Science & Artificial Intelligence** — Umm Al-Qura University, 2026. GPA **3.54/4.00**, Second Class Honors.
-
-**Software Project Management (Git & GitHub)** — Pathy, November 2026 · [Verify certificate ↗](https://learn.pathy.live/certificate/PTHYHCR6WZ3G5Q93)
-
-## Connect
-
-Based in Makkah, Saudi Arabia. I am interested in software development, AI integration and opportunities to keep building useful things.
-
-[Portfolio](https://muathmalsulami.github.io/learn-git-with-pathy/) · [LinkedIn](https://www.linkedin.com/in/muath-m-alsulami/) · [Email](mailto:muath.m.alsulami@gmail.com)
+</details>
