@@ -24,9 +24,12 @@ for (const [, , target] of targets) {
   }
 }
 
-const images = [...readme.matchAll(/!\[([^\]\n]*)\]\(([^\s)]+)\)/g)];
+const images = [...readme.matchAll(/<img\b[^>]*src="([^"]+)"[^>]*alt="([^"]+)"/g)];
 assert.equal(images.length, 1);
-assert(images[0][1].trim().length > 0, 'Hero needs descriptive alternative text');
+assert.equal(images[0][1], 'assets/identity/interface-signature-still.svg');
+assert(images[0][2].trim().length > 0, 'Hero needs descriptive alternative text');
+assert.match(readme, /<source media="\(prefers-reduced-motion: no-preference\)" srcset="assets\/identity\/interface-signature\.svg">/);
+assert.doesNotMatch(readFileSync(join(root, images[0][1]), 'utf8'), /@keyframes|class="pulse/);
 for (const name of readdirSync(identity)) {
   assert.match(name, /\.svg$/);
   const svg = readFileSync(join(identity, name), 'utf8');

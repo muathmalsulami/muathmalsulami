@@ -87,6 +87,10 @@ ${stations}
   </g>`),
 };
 
+outputs['interface-signature-still.svg'] = outputs['interface-signature.svg']
+  .replace(/    @media \(prefers-reduced-motion:[\s\S]*?\n    \.pulse \{ opacity: 0; \}\n/, '')
+  .replace(/  <path class="pulse accent"[\s\S]*?\/>\n/, '');
+
 for (const [name, content] of Object.entries(outputs)) {
   const path = join(location, name);
   if (checking) {
@@ -97,4 +101,4 @@ for (const [name, content] of Object.entries(outputs)) {
     writeFileSync(path, content);
   }
 }
-console.log(checking ? 'Generated SVGs match their source' : 'Generated two SVGs');
+console.log(checking ? 'Generated SVGs match their source' : 'Generated identity SVGs');

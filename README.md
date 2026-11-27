@@ -7,7 +7,10 @@ I build application interfaces, connect them to models through APIs, and use met
 
 [**Selected work**](#selected-work) · [Portfolio](https://muathmalsulami.github.io/) · [LinkedIn](https://www.linkedin.com/in/muath-m-alsulami/) · [Email](mailto:muath.m.alsulami@gmail.com)
 
-![A folded monogram beside a signal path through three layers, representing an interface, integration and a system signal.](assets/identity/interface-signature.svg)
+<picture>
+  <source media="(prefers-reduced-motion: no-preference)" srcset="assets/identity/interface-signature.svg">
+  <img src="assets/identity/interface-signature-still.svg" width="800" height="220" alt="A folded monogram beside a signal path through three layers, representing an interface, integration and a system signal.">
+</picture>
 
 ## Selected work
 
