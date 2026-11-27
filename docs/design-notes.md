@@ -1,39 +1,25 @@
-# Profile design notes
+# Interface signature
 
-## Direction and evidence
+## Creative directions
 
-**Selected: Engineering Atelier.** A modular path from idea to system uses an architectural drawing and a restrained palette from the published portfolio. The illustration is not an approved logo; the name and substance remain ordinary readable text. The portfolio image is a screenshot of the public site, captured before this change and saved locally as WebP. The Numoo and co-op descriptions are text accounts, not fabricated product screenshots or public source claims.
+| Direction | Composition | Decision |
+| --- | --- | --- |
+| Bilingual typographic seal | The two names share a centered axis and typographic scale. | Strong as a colophon, but repeats the native heading and depends on typography availability inside GitHub images. |
+| Field notebook | Margin rules, log annotations and small plot marks frame the work. | Good for systems writing, but loses clarity at 320 px and can be mistaken for real measurements. |
+| Folded monogram and stepped trace | An angular M and a loop informed by the Arabic meem sit beside a signal routed through three planes. | Selected. The mark has a standalone silhouette and the trace relates directly to the interface, integration and observability work. |
 
-**Alternative: Constructive Intelligence.** A repeated vertical structure and large integrated title were prototyped, but rejected because the text crosses the graphic and the composition is less readable at small sizes. The prototype is preserved in the task workspace for comparison, not embedded in the profile.
+Three refinements shaped the candidate. The creative pass replaced a broad illustrated banner with a compact composition and a standalone monogram. The editorial pass moved native identity, specialization and navigation ahead of the SVG, put Numoo first, and replaced project illustrations with role and evidence. The engineering pass generated matching still and motion assets from one geometry source, removed runtime dependencies, strengthened validation and added a pull-request integrity check.
 
-## Reference review
+## Composition and production
 
-- [Sindre Sorhus](https://github.com/sindresorhus): recognisable personal voice; repeated effects would overwhelm this use case.
-- [Anthony Fu](https://github.com/antfu): compact navigation and short paths to work; this profile needs more project context.
-- [Jess Frazelle](https://github.com/jessfraz): custom assets create identity; essential content should remain selectable text.
-- [Cassidy Williams](https://github.com/cassidoo): conversational writing feels human; avoid presenting unsupported seniority.
-- [Kent C. Dodds](https://github.com/kentcdodds): a concise opening and clear destination make the next action obvious.
+Warm linen and charcoal-green are the base surfaces. Bronze marks the trace terminals and the inner fold. Thin construction rules and repeated isometric planes establish scale. Use GitHub's native type for the name, skills and prose. A single consistent stroke language replaces project badges and icons. Essential reading order is name, specialization, location, engineering approach, navigation, then the illustration. The compact, wide artwork uses relative scaling with an intrinsic size for stable layout.
 
-## Proposed account settings after approval
+The image has a static base trace and one 2.4-second traversal that visualizes a signal crossing boundaries. The picture source selects the animated image only when the page reports no motion preference. The fallback image contains no animation markup. SVG follows the browser's preferred color scheme. An explicit GitHub theme that differs from the browser preference can retain the contrasting plate from the other palette. Both plates have their own background and preserve internal contrast.
 
-- Bio: `CS & AI graduate building software, integrating intelligent features, and learning how systems work.`
-- Website: `https://muathmalsulami.github.io/learn-git-with-pathy/`.
-- Social link: retain existing LinkedIn link.
-- Pinned: `learn-git-with-pathy` only; use Customize your pins on the profile and save after approval. Do not pin config, profile or template repositories just to fill space.
-- Portfolio repository description currently describes a bilingual software and AI portfolio accurately; keep it. Topics can be reviewed separately after approval.
+Run `node scripts/generate-identity.cjs` from the repository to regenerate the assets and `node verify-profile.cjs` to check that committed assets match the source. The action runs on pull requests and main-branch pushes. It uses read-only contents permission and has no schedule. Network destination checks are release QA because the portfolio and contact services can rate-limit automated requests.
 
-## Limits
+Artwork is original to this profile. The geometry is drawn in the generator. No fonts, external marks, or third-party images are embedded. The SVGs and generator are supplied for Muath Alsulami's profile. The standalone mark is intended for identity review and approval before wider use.
 
-Branch rendering is not publication. GitHub mobile and light-mode screenshots and an independent user study are not represented by static asset checks. No claim is made that Numoo's source or National Center for Meteorology training files are publicly available. Public account settings and the live profile remain unchanged pending one explicit approval.
+## Evidence and scope
 
-## Release candidate v2
-
-The hero is now a text-free, layered path; its meaning and headline remain readable Markdown even if images are disabled or displayed at narrow widths. Numoo and monitoring diagrams are clearly labeled illustrations, not application captures or operational data. The portfolio screenshot remains a real capture from the current public site.
-
-GitHub theme settings can differ from the operating system color scheme; testing exposed a mismatch with theme-specific `<picture>` sources. The artwork now has a transparent background and a single green line color suitable for both page themes. Test the resulting profile on GitHub itself, not only the SVG renderer. The local test `node verify-profile.cjs` checks required assets, basic SVG safety, key content, alt descriptions and file-size limits; it is not a full accessibility or broken-link audit.
-
-## Final polish — personal working path
-
-The signature uses three related paths that share a beginning, converge, and continue: an editorial metaphor for application work, intelligent integration and the systems that support it. It is not an approved M logo. The two project studies reuse that same line language, are deliberately smaller than the real portfolio screenshot, and do not purport to depict a real application or operating environment. The simulated-failure claim was removed in this round to keep the public wording conservative.
-
-Final proposed settings: Bio `CS & AI graduate building software, integrating intelligent features, and learning how systems work.` Website `https://muathmalsulami.github.io/learn-git-with-pathy/`. Retain the existing LinkedIn social link. Pin only `muathmalsulami/learn-git-with-pathy`. Keep the existing accurate repository description; no topic changes are required. Do not apply these settings until approval.
+The root Pages site is the dedicated bilingual portfolio and its public source is linked from the profile. Numoo and NCM links open portfolio-authored case studies. The Numoo contribution covers the application and API integration. NCM covers work in a co-op training environment. The exact degree wording is retained from the prior public version pending direct access to the university record. The [Umm Al-Qura program catalog](https://uqu.edu.sa/en/App/Degrees?dept=1&faculty=14) distinguishes the department name from individual degrees and does not identify the credential awarded to this graduate. Profile settings and pin order require a separate approval because they change the live profile immediately.

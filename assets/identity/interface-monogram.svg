@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192" role="img" aria-labelledby="title description">
+  <title id="title">Muath Alsulami monogram</title>
+  <desc id="description">A folded M with an enclosed lower loop drawn from the geometry of the Arabic meem.</desc>
+  <style>
+    .field{fill:#F4F0E7} .ink{stroke:#202A27} .accent{stroke:#805420}
+    .grid{stroke:#C9BFAE} .face{fill:#E5DED1} .seam{stroke:#9B8A71} .dot{fill:#805420}
+    @media (prefers-color-scheme: dark) { .field{fill:#212925} .ink{stroke:#F4EBDD} .accent{stroke:#E3BD84}
+    .grid{stroke:#46504A} .face{fill:#303B34} .seam{stroke:#8B9588} .dot{fill:#E3BD84} }
+    @media (prefers-reduced-motion: no-preference) {
+      .pulse { animation: trace 2.4s cubic-bezier(.35,0,.2,1) 1 both; }
+      @keyframes trace {
+        0% { stroke-dashoffset: 100; opacity: 0 }
+        12% { opacity: 1 }
+        80% { opacity: 1 }
+        100% { stroke-dashoffset: -9; opacity: 0 }
+      }
+    }
+    .pulse { opacity: 0; }
+  </style>
+  <rect class="field" x="0" y="0" width="192" height="192" rx="12"/>
+  <g transform="translate(23 0)">
+  <path class="ink" fill="none" stroke-width="12" stroke-linejoin="bevel"
+        d="M 18 113 V 36 L 67 80 L 115 36 V 113 L 78 136 L 53 120"/>
+  <path class="accent" fill="none" stroke-width="5" stroke-linejoin="bevel"
+        d="M 67 80 V 105 L 89 119 V 145 L 67 159 L 45 145 V 125"/>
+  <path class="ink" fill="none" stroke-width="2" d="M 115 36 H 144 M 18 113 H 1"/>
+  <circle class="dot" cx="144" cy="36" r="3"/>
+
+  </g>
+</svg>
